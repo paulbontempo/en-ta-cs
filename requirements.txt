@@ -1,0 +1,3 @@
+emoji==2.14.1
+openai==1.76.0
+pandas==2.2.3
