@@ -22,8 +22,8 @@ INPUT_FILE = "tamil_sentiment_preprocessed.json"
 OUTPUT_FILE = "ENTACS_sentiment_translated.json"
 
 # Line span configuration - ADJUST THESE VALUES TO PROCESS DIFFERENT CHUNKS
-START_LINE = 1  # Starting line index (1-based for user convenience)
-END_LINE = 10  # Ending line index (inclusive)
+START_LINE = 11  # Starting line index (1-based for user convenience)
+END_LINE = 1000  # Ending line index (inclusive)
 
 RATE_LIMIT_DELAY = 0  # Seconds to wait between API calls to avoid rate limiting
 
