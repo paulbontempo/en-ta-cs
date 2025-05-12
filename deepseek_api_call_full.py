@@ -4,7 +4,7 @@ from openai import OpenAI
 import time
 
 # Configuration
-API_KEY = "sk-2c55f815f11a4bb3a3aacfb7a2f99228"  # Replace with your actual API key
+API_KEY = "key here"  # Replace with your actual API key
 BASE_URL = "https://api.deepseek.com"
 MODEL = "deepseek-chat"
 TEMPERATURE = 1.3
