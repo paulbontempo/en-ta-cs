@@ -1,0 +1,501 @@
+sentence_id,sentence,tokens,num_tokens,labels (space-separated),num_labels
+sent_0001,சேலம் மற்றும் இளம்பிள்ளை வீர சைவம் ஜங்கம குலம் சார்பில் வாழ்த்துக்கள்.இந்த திரை காவியம் வெள்ளி விழா காணா வேண்டும்.,சலம மறறம இளமபளள வர சவம ஜஙகம கலம சரபல வழததககளஇநத தர கவயம வளள வழ கண வணடம,15,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,15
+sent_0002,Anna vera leval. I l u anna,Anna vera leval I l u anna,7,ta ta en en en en ta,7
+sent_0003,i guess d count s stuck,i guess d count s stuck,6,en en na en na en,6
+sent_0004,"Wow, vraiment ça donne envie d'en savoir plus sur le cinéma Bolywoodien !",Wow vraiment ça donne envie den savoir plus sur le cinéma Bolywoodien,12,en na na na na na na na na na na na,12
+sent_0005,Love u so much Thala umaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,Love u so much Thala umaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,6,en en en en ta ta,6
+sent_0006,Simbu anna carrier la periya break ah iruka pora padam ithu.,Simbu anna carrier la periya break ah iruka pora padam ithu,11,ta ta en ta ta en ta ta ta ta ta,11
+sent_0007,Chiyaan vikram mass trailer in Kadaram kondan,Chiyaan vikram mass trailer in Kadaram kondan,7,ta ta ta en en ta ta,7
+sent_0008,01:16 ஏகன்ல அமுல் பேபியா இருந்த நவ்தீப்பா இது,0116 ஏகனல அமல பபய இரநத நவதபப இத,7,na ta ta ta ta ta ta,7
+sent_0009,என்னுடைய நீண்ட நாள் கனவு இன்றைய சூழ்நிலையில் நடக்கும் நாடக காதலை தோலுரிக்கும் படம் படைத்தற்க்கு மிக்க நன்றி.,எனனடய நணட நள கனவ இனறய சழநலயல நடககம நடக கதல தலரககம படம படததறகக மகக நனற,14,ta ta ta ta ta ta ta ta ta ta ta ta ta ta,14
+sent_0010,Who else feels like international movie .... Vow,Who else feels like international movie Vow,7,en en en en en en en,7
+sent_0011,Gonna rock .by Kerala suriya fan,Gonna rock by Kerala suriya fan,6,en en en na ta en,6
+sent_0012,ஐயயோ நீ நல்லாயிருக்க - semma cute. idha repeat modela pathuketta iruken,ஐயய ந நலலயரகக semma cute idha repeat modela pathuketta iruken,10,ta ta ta ta en ta en ta ta ta,10
+sent_0013,தீரன் சின்னமலை கொங்கு வெள்ளாளர் கவுண்டர்கள் சார்பாக படம் வெற்றி அடைய வாழ்த்துக்கள் Finally someone has guts to take true story happening around,தரன சனனமல கஙக வளளளர கவணடரகள சரபக படம வறற அடய வழததககள Finally someone has guts to take true story happening around,20,ta ta ta ta ta ta ta ta ta ta en en en en en en en en en en,20
+sent_0014,குற்றமுள்ள நெஞ்சு குறுகுறுக்கும் அதுபோல எவன் இந்த படத்தை எதிர்க்கிறா அவனெல்லாம் குற்றவாளிதான்,கறறமளள நஞச கறகறககம அதபல எவன இநத படதத எதரககற அவனலலம கறறவளதன,10,ta ta ta ta ta ta ta ta ta ta,10
+sent_0015,"நாடக காதல் தெரிந்தளவு, லவ் ஜிகாத் பற்றியும் பக்களிடம் விழிப்புணர்வு தேவை..",நடக கதல தரநதளவ லவ ஜகத பறறயம பககளடம வழபபணரவ தவ,9,ta ta ta ta ta ta ta ta ta,9
+sent_0016,1m likes varumnu solravagga like here,1m likes varumnu solravagga like here,6,na en ta ta en en,6
+sent_0017,"படம் வெற்றி பெற வாழ்த்துக்கள்,குருமா குப்பலுக்கு குருமாவால் சொல்லப்படும் மறைமுக செய்தியே இந்த நாடக காதல்,",படம வறற பற வழததககளகரம கபபலகக கரமவல சலலபபடம மறமக சயதய இநத நடக கதல,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0018,இந்த படத்தால நீங்க எந்த அளவுக்கு அசிங்கப்பட போறீங்க பாருங்கடா.,இநத படததல நஙக எநத அளவகக அசஙகபபட பறஙக பரஙகட,8,ta ta ta ta ta ta ta ta,8
+sent_0019,Different aana thala epo paaka porom,Different aana thala epo paaka porom,6,en ta ta ta ta ta,6
+sent_0020,Oruthar Mela Neenga Viswasam kaatrathukaga Innoruthar enn Asinga paduthu ringa,Oruthar Mela Neenga Viswasam kaatrathukaga Innoruthar enn Asinga paduthu ringa,10,ta ta ta ta ta ta ta ta ta ta,10
+sent_0021,கருப்பு சுதந்திரத்தை பேசும் அவர்கள் சட்டத்தில் தான் ஒருவர் கூரும் கருத்து சுதந்திரமும் உள்ளது. ஒருவர் கூரும் கருத்திற்கு எதிர்ப்பு செல்ல எவருக்கும் உரிமை இல்லை...,கரபப சதநதரதத பசம அவரகள சடடததல தன ஒரவர கரம கரதத சதநதரமம உளளத ஒரவர கரம கரததறக எதரபப சலல எவரககம உரம இலல,19,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,19
+sent_0022,Trailer kaga wait pannitu irunthavanga la like pannunga...,Trailer kaga wait pannitu irunthavanga la like pannunga,8,en ta en ta ta ta en ta,8
+sent_0023,சரியானா movie im waiting எப்ப பார்த்தலும் கிளு சாதி க்கு seaport pannura நாயிக்கு செருப்பு அடி,சரயன movie im waiting எபப பரததலம கள சத கக seaport pannura நயகக சரபப அட,14,ta en en en ta ta ta ta ta en ta ta ta ta,14
+sent_0024,இக்காலத்துக்கு தேவைப்படும் படம்... இது போன்ற படம் எடுக்க நிச்சயம் துணிச்சல் வேண்டும்.... வெற்றிபெற வாழ்த்துக்கள்....,இககலததகக தவபபடம படம இத பனற படம எடகக நசசயம தணசசல வணடம வறறபற வழததககள,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0025,"MOKKA ACTOR""S PAKKA MOKKA TRAILER.., VJ PAANS GONNA BE ""SASI"".., -A MOLLYWOOD FILM LOVER",MOKKA ACTORS PAKKA MOKKA TRAILER VJ PAANS GONNA BE SASI A MOLLYWOOD FILM LOVER,14,ta en ta ta en ta ta en en ta ta en en en,14
+sent_0026,Thala SIMBU da vere level va thalaiva,Thala SIMBU da vere level va thalaiva,7,ta ta ta ta en ta ta,7
+sent_0027,Kaathu kidandha padam...... kolliwood'in kaadhai thirugi veru nalla dhisaikku izhuthu sellum....,Kaathu kidandha padam kolliwoodin kaadhai thirugi veru nalla dhisaikku izhuthu sellum,11,ta ta ta ta ta ta ta ta ta ta ta,11
+sent_0028,நாடக காதல் என்ற பெயரில் நம் இன பெண்களை ஏமாற்றும் கும்பலுக்கு இனி அரிவாள் வெட்டு உண்டு ........,நடக கதல எனற பயரல நம இன பணகள ஏமறறம கமபலகக இன அரவள வடட உணட,13,ta ta ta ta ta ta ta ta ta ta ta ta ta,13
+sent_0029,UYa hooo my name is Narayanaa,UYa hooo my name is Narayanaa,6,ta ta en en en ta,6
+sent_0030,Who are like dhevaram( poonkodi annan) killing folk scene.. Mass ever seen in indian films ..,Who are like dhevaram poonkodi annan killing folk scene Mass ever seen in indian films,15,en en en ta ta ta en en en ta en en en en en,15
+sent_0031,Madona sebastin ku than Jayalalitha young face apdiye set aagum,Madona sebastin ku than Jayalalitha young face apdiye set aagum,10,en en ta en ta en en ta en ta,10
+sent_0032,படக்குழுவுக்கு வாழ்த்துக்கள்... ஆனால் கடைசியாக மொத்த அர்த்தங்களும் மாற்றாமல் இருந்தால் நல்லா இருக்கும்... climax la thavarukalai sutti katungal... anaivaroda thavarukalaium...,படககழவகக வழததககள ஆனல கடசயக மதத அரததஙகளம மறறமல இரநதல நலல இரககம climax la thavarukalai sutti katungal anaivaroda thavarukalaium,17,ta ta ta ta ta ta ta ta ta ta en ta ta ta ta ta ta,17
+sent_0033,only 500 likes are need to hit 250k likes,only 500 likes are need to hit 250k likes,9,en na en en en en en na en,9
+sent_0034,இனியாவது இந்த மாதிரி கூட்டத்திலிருந்து நம்ம பொண்ணுங்கள பாதுகாக்கனும்...ஜாதியை மனதில் விதைக்க வேண்டாம் ஆனால் நம்ம ஜாதியின் பெருமையை சொல்லி வளர்க்கவேண்டும்..நம்ம யாரு அவங்க யாருன்னு நம்ம பொண்ணுங்களுக்கு நல்லா தெரியவைக்கனும்...,இனயவத இநத மதர கடடததலரநத நமம பணணஙகள பதகககனமஜதய மனதல வதகக வணடம ஆனல நமம ஜதயன பரமய சலல வளரககவணடமநமம யர அவஙக யரனன நமம பணணஙகளகக நலல தரயவககனம,23,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,23
+sent_0035,கடலூர் யாதவர் சார்பாக திரௌபதி படம் வெற்றி அடைய வாழ்த்துக்கள்.......,கடலர யதவர சரபக தரபத படம வறற அடய வழததககள,8,ta ta ta ta ta ta ta ta,8
+sent_0036,"Kaththi , poojai maari Bigil , kaithi hit aagum",Kaththi poojai maari Bigil kaithi hit aagum,7,ta ta ta ta ta ta ta,7
+sent_0037,தோழரே ஆகஸ்ட் மாதம் இந்தப் படத்தை வெளியிட்டார் என்ன ஒரு பிரயோஜனம் அதுவே இந்த எலக்சனுக்கு புள்ள வெளியிட்டார் உங்களால ஒரு 80 ஆயிரம் பேராவது திருந்துவாங்க பணம் மட்டும் சம்பாதிக்க போதாது நான் சொல்வது புரியுதுங்களா,தழர ஆகஸட மதம இநதப படதத வளயடடர எனன ஒர பரயஜனம அதவ இநத எலகசனகக பளள வளயடடர உஙகளல ஒர 80 ஆயரம பரவத தரநதவஙக பணம மடடம சமபதகக பதத நன சலவத பரயதஙகள,27,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta na ta ta ta ta ta ta ta ta ta ta,27
+sent_0038,Asuran trailer mass dhanush Anna super dhanush fan naa like podunga. Please,Asuran trailer mass dhanush Anna super dhanush fan naa like podunga Please,12,ta en ta ta ta en ta en ta en ta en,12
+sent_0039,sema sema ore padama edukkama different story,sema sema ore padama edukkama different story,7,ta ta ta ta ta en en,7
+sent_0040,Anni kilola makeup ese badulu Nitya Menon ni pettochu ka,Anni kilola makeup ese badulu Nitya Menon ni pettochu ka,10,ta ta en ta ta ta ta ta ta ta,10
+sent_0041,Dai ennada yogi babu mudiya kanom pavamya antha manusan,Dai ennada yogi babu mudiya kanom pavamya antha manusan,9,ta ta ta ta ta ta ta ta ta,9
+sent_0042,Malayalam king + Tamil king,Malayalam king Tamil king,4,na en na en,4
+sent_0043,Aday telugu paiyangala unga bahubali record ah thookitu odunga 2.o comming.......,Aday telugu paiyangala unga bahubali record ah thookitu odunga 2o comming,11,ta en ta ta ta en ta ta ta na en,11
+sent_0044,"Inga ellarum youngsters/padicahavanga epdi politics varanganu than Narrate panringa(LKG,Sarkar,Ayuthaeluthu) ... Anga youngsters/padichavanga politics ku vantha ennanenna nadakumnu padam edutha nalla irukum la like mudhalvan",Inga ellarum youngsterspadicahavanga epdi politics varanganu than Narrate panringaLKGSarkarAyuthaeluthu Anga youngsterspadichavanga politics ku vantha ennanenna nadakumnu padam edutha nalla irukum la like mudhalvan,23,ta ta na ta en ta ta ta ta ta na en ta ta ta ta ta ta ta ta ta en ta,23
+sent_0045,ஆத்திரங்கள் அனைத்தும் அடங்கிய பின்பே கூந்தலை அள்ளி முடிவாள் திரௌபதி....ஆங்காங்கே மரண ஓலம் கேட்கிறதே!கௌரவர்களாகதான் இருக்கும்....,ஆததரஙகள அனததம அடஙகய பனப கநதல அளள மடவள தரபதஆஙகஙக மரண ஓலம கடகறதகரவரகளகதன இரககம,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0046,I am marana waiting thala nkp movie,I am marana waiting thala nkp movie,7,en en ta en ta na en,7
+sent_0047,கடலூர் மாவட்டம் செம்மங்குப்பம் வன்னியர் சங்கம் சார்பாக நம் குல சாமியின் பெயரை படத்தின் பெயராக வைத்ததற்கும் படம் வெற்றி பெறவும் வாழ்த்துக்கள்.,கடலர மவடடம சமமஙகபபம வனனயர சஙகம சரபக நம கல சமயன பயர படததன பயரக வதததறகம படம வறற பறவம வழததககள,17,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,17
+sent_0048,69 vayasula...yaaralayum ipdi oru style & Mass ah kaata mudiyathu....only one super star will create this magic,69 vayasulayaaralayum ipdi oru style Mass ah kaata mudiyathuonly one super star will create this magic,16,na ta ta ta en ta ta ta ta en en en en en en en,16
+sent_0049,NGK KERALA FANS SHOW TICKET HEAVY DEAMAND VEERITHANAM OVER LOADING,NGK KERALA FANS SHOW TICKET HEAVY DEAMAND VEERITHANAM OVER LOADING,10,na na en en en en en ta en en,10
+sent_0050,Super concept bro ranna bro vera lvl pannitinga first padam maari terila trailer cut ahh super na padam kandipa padam vera lvl irukunu expect panni kandipa padathuku ponnum,Super concept bro ranna bro vera lvl pannitinga first padam maari terila trailer cut ahh super na padam kandipa padam vera lvl irukunu expect panni kandipa padathuku ponnum,28,en en en ta en ta en ta en ta ta ta en en en en ta ta ta ta ta en ta en ta ta ta ta,28
+sent_0051,Ghibran pundaya vitta ungalukku vera aale kedaika laya da.,Ghibran pundaya vitta ungalukku vera aale kedaika laya da,9,ta ta ta ta ta ta ta ta ta,9
+sent_0052,"Appu, ithu enna telegu padam matri iruku. ! Tamil padam yedugeda!",Appu ithu enna telegu padam matri iruku Tamil padam yedugeda,10,ta ta ta en ta ta ta na ta ta,10
+sent_0053,Looks like remake of pink movie,Looks like remake of pink movie,6,en en en en en en,6
+sent_0054,Un like pottavan ellarum surya Anna ku bayanthavanunga da........,Un like pottavan ellarum surya Anna ku bayanthavanunga da,9,ta en ta ta ta ta ta ta ta,9
+sent_0055,நிறைய பேரு சைக்கோ ஆகிருப்பாங்க ராஜா சார் ரஹ்மான் இல்லனா ஒரு பானை சாப்பாடு க்கு ஒரு சோறு பதம் னு சொல்லுவாங்க ராஜா சார் : தத்துவம் கனவு காணும் வாழ்கையாவும் (நீங்கள் கேட்டவை ) ரஹ்மான் சார் : கொண்டாட்டம் மான மதுரை மாமர கிளியே (மின்சாரக்கனவு ) தத்துவம் மனசை பக்குவப்படுத்தும் கொண்டாட்டம் மனசை இளமையாக்கும் இது தெரியாமல் சண்டடை போடுபவர்களுக்கு டாக்டர் எப்படி பட்டவரா இருக்கட்டும் நமக்கு நோய் தீர்ந்ததானு மட்டும் பார்ப்பவர்கள் மட்டுமே உண்மையான இசை காதலர்கள்,நறய பர சகக ஆகரபபஙக ரஜ சர ரஹமன இலலன ஒர பன சபபட கக ஒர சற பதம ன சலலவஙக ரஜ சர தததவம கனவ கணம வழகயவம நஙகள கடடவ ரஹமன சர கணடடடம மன மதர மமர களய மனசரககனவ தததவம மனச பககவபபடததம கணடடடம மனச இளமயககம இத தரயமல சணடட படபவரகளகக டகடர எபபட படடவர இரககடடம நமகக நய தரநததன மடடம பரபபவரகள மடடம உணமயன இச கதலரகள,56,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta na ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta na ta ta ta ta ta ta ta ta ta ta ta ta,56
+sent_0056,Karthi annaaaa vera level acting,Karthi annaaaa vera level acting,5,ta ta ta en en,5
+sent_0057,Suriya annan ഉയിർ ടാ,Suriya annan ഉയർ ട,4,ta ta ta ta,4
+sent_0058,1:17 verithanama iruku nu solravanga like podunga,117 verithanama iruku nu solravanga like podunga,7,na ta ta ta ta en ta,7
+sent_0059,"Telugu trailer yeppudu vastundhi Anna .........Rajini sir.... style super ..... ,",Telugu trailer yeppudu vastundhi Anna Rajini sir style super,9,en en ta ta ta ta en en en,9
+sent_0060,NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK,NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK NGK,64,na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na na,64
+sent_0061,பிரித்தாளும் சூழ்ச்சியில் சிக்கிவிடாதே தமிழா சாதி மறந்து இனமாய் ஒன்று படுவோம்,பரததளம சழசசயல சககவடத தமழ சத மறநத இனமய ஒனற படவம,9,ta ta ta ta ta ta ta ta ta,9
+sent_0062,Yo padam release date yaravadhu sollunga da,Yo padam release date yaravadhu sollunga da,7,en ta en en ta ta ta,7
+sent_0063,ஆதி அண்ணா ரசிகர்கள் மட்டும் லைக் பண்ணுங்க,ஆத அணண ரசகரகள மடடம லக பணணஙக,6,ta ta ta ta ta ta,6
+sent_0064,Why didn't you cast Vidya balan?,Why didnt you cast Vidya balan,6,en en en en ta ta,6
+sent_0065,Movie nalla irukumo illayo trailer super ah irukku mass,Movie nalla irukumo illayo trailer super ah irukku mass,9,en ta ta ta en en ta ta ta,9
+sent_0066,Trailer paakkumbothe sirippu thaanga mudila..semma padam aa vara poguthu..specially last scene,Trailer paakkumbothe sirippu thaanga mudilasemma padam aa vara poguthuspecially last scene,11,en ta ta ta ta ta ta ta ta en en,11
+sent_0067,சாதியை வைத்து தீண்டாமையை ஒழிக்க படமாக்குவது முற்போக்குத்தனம்... அதே சாதியை வைத்து வன்முறையை தூண்டுவதுபோல் படமெடுப்பது முட்டாள்தனம்... பரியேறும்பெருமாள் என்ற ஒடுக்குமுறை படைப்புகளுக்கு முன்... இந்த திரௌபதி என்ற சாதியவெறி படைப்பாகாது. comment box க்கு வரும் தோழர்கள் சாதி என்ற செருப்பை கழட்டி விட்டு வரவும். என்னோட blood O+,சதய வதத தணடமய ஒழகக படமககவத மறபககததனம அத சதய வதத வனமறய தணடவதபல படமடபபத மடடளதனம பரயறமபரமள எனற ஒடககமற படபபகளகக மன இநத தரபத எனற சதயவற படபபகத comment box கக வரம தழரகள சத எனற சரபப கழடட வடட வரவம எனனட blood O,37,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta na ta ta ta ta ta ta en en ta ta ta ta ta ta ta ta ta ta en en,37
+sent_0068,kappan blockbuster movienu solravunga like podonga,kappan blockbuster movienu solravunga like podonga,6,ta en na ta en ta,6
+sent_0069,Intha movie Tirunelveli slang la eduthuruntha innum konjam nalla irunthurukkum,Intha movie Tirunelveli slang la eduthuruntha innum konjam nalla irunthurukkum,10,ta en ta en ta ta ta ta ta ta,10
+sent_0070,Semma kalaai for rajini...emaathu naayi...fraud arasiyaluku varen varentu emathuran...,Semma kalaai for rajiniemaathu naayifraud arasiyaluku varen varentu emathuran,9,ta ta en ta ta ta ta ta ta,9
+sent_0071,70 க்கும் மேல பாத்தாச்சு. கருப்பு சட்டையை கதற விட்டானுங்க...,70 ககம மல பததசச கரபப சடடய கதற வடடனஙக,8,na ta ta ta ta ta ta ta,8
+sent_0072,Sari papa nee oru parayan pona kadu papa aprom nee neyaa tharamam pasu papa,Sari papa nee oru parayan pona kadu papa aprom nee neyaa tharamam pasu papa,14,ta na ta ta ta ta ta na ta ta ta ta ta na,14
+sent_0073,pakkkka massss ....therikkka vidrom ...thala fans,pakkkka massss therikkka vidrom thala fans,6,ta ta ta ta ta en,6
+sent_0074,புதுவை வன்னியர் சமுகம் சார்பாக திரௌபதி படம் வெற்றி பெற வாழ்த்துக்கள்...,பதவ வனனயர சமகம சரபக தரபத படம வறற பற வழததககள,9,ta ta ta ta ta ta ta ta ta,9
+sent_0075,"கோமாளி படத்தின் டிரைலரை காண்பித்து என்னை கிண்டல் செய்யும் நண்பர்களுக்கு, ரஜினி 2017ற்கு முன்பு நான் அரசியலுக்கு வருவது உறுது என்றோ அல்லது நான் இந்த தேதியில் தேர்தலில் நிற்க போகிறேன் என்றோ அவர் பேசிய வீடியோ அல்லது எந்ந ஆதாரத்தை காண்பித்தூலும் நான் ரஜினியை ஆதரிப்பதை நிறுத்த தயாராக இருக்கிறேன்.",கமள படததன டரலர கணபதத எனன கணடல சயயம நணபரகளகக ரஜன 2017றக மனப நன அரசயலகக வரவத உறத எனற அலலத நன இநத ததயல தரதலல நறக பகறன எனற அவர பசய வடய அலலத எநந ஆதரதத கணபததலம நன ரஜனய ஆதரபபத நறதத தயரக இரககறன,37,ta ta ta ta ta ta ta ta ta na ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta na ta ta ta ta ta ta ta ta ta ta,37
+sent_0076,Thala dialogue delivery vara level marana waiting NKP movie,Thala dialogue delivery vara level marana waiting NKP movie,9,ta en en ta en ta en na en,9
+sent_0077,When 2:30 comes.. I felt like sivakarthikeyan.. (mass ka bap rajani sir),When 230 comes I felt like sivakarthikeyan mass ka bap rajani sir,12,en na en en en en ta ta ta ta ta en,12
+sent_0078,Thalaivaaaaa...... Gethu kaatriye thalaivaa... Teaser semma podu poduthu..... Semma thalaiva...,Thalaivaaaaa Gethu kaatriye thalaivaa Teaser semma podu poduthu Semma thalaiva,10,ta ta ta ta en ta ta ta ta ta,10
+sent_0079,10 million views varamuttum oya Maatean...,10 million views varamuttum oya Maatean,6,na en en ta ta ta,6
+sent_0080,Thalaiavar mass pannirukaru polaye Vijay sethupathy ah sonna,Thalaiavar mass pannirukaru polaye Vijay sethupathy ah sonna,8,ta ta ta ta ta ta ta ta,8
+sent_0081,தேவர் சமுதாயத்தின் சார்பில் இத்திரைப்படம் ஒரு புதிய புரட்சியை உருவாக்க வாழ்த்துகிறோம்......நாடக காதலின் உண்மையை எடுத்துரைக்க வருகிறாள் திரெளபதி,தவர சமதயததன சரபல இததரபபடம ஒர பதய பரடசய உரவகக வழததகறமநடக கதலன உணமய எடததரகக வரகறள தரளபத,14,ta ta ta ta ta ta ta ta ta ta ta ta ta ta,14
+sent_0082,Bigil thalapathy da ........... aamaiyan gala,Bigil thalapathy da aamaiyan gala,5,ta ta ta ta ta,5
+sent_0083,நம்ம ஒரு ஏரியில் குதித்து விளையாடுவம்ல அது எங்க அது மேல்தான் நடக்குரொம் செம்ம,நமம ஒர ஏரயல கததத வளயடவமல அத எஙக அத மலதன நடககரம சமம,11,ta ta ta ta ta ta ta ta ta ta ta,11
+sent_0084,புளோரிடா மாகாணம் டிரம்ப் பரம்பரை சார்பாக படம் அமெரிக்காவில் ஓட வாழ்த்துக்கள்,பளரட மகணம டரமப பரமபர சரபக படம அமரககவல ஓட வழததககள,9,ta ta ta ta ta ta ta ta ta,9
+sent_0085,yuvan BGM la pinni pedal ethuruka polaaaa..... vera level BGM,yuvan BGM la pinni pedal ethuruka polaaaa vera level BGM,10,ta na ta ta ta ta ta ta en na,10
+sent_0086,"Hindi PINK ku viswaasama irukra fans, enga NERKONDA PAARVAI ya asinga paduthaadheenga!",Hindi PINK ku viswaasama irukra fans enga NERKONDA PAARVAI ya asinga paduthaadheenga,12,na en ta ta ta en ta ta ta ta ta ta,12
+sent_0087,சூப்பர் சிவா அண்ணா நல்ல உழைப்பு உங்கள் டீம் வாழ்த்துக்கள் அண்ணா,சபபர சவ அணண நலல உழபப உஙகள டம வழததககள அணண,9,ta ta ta ta ta ta ta ta ta,9
+sent_0088,start and end look same :),start and end look same,5,en en en en en,5
+sent_0089,Dhanush Vetrimaran Gv Yathuku pa promosion panununum Panamala akum Movie Don't worry,Dhanush Vetrimaran Gv Yathuku pa promosion panununum Panamala akum Movie Dont worry,12,ta ta ta ta ta ta ta ta ta en en en,12
+sent_0090,Thala ipdi neraya neraya neraya neraya dialogue sema,Thala ipdi neraya neraya neraya neraya dialogue sema,8,ta ta ta ta ta ta en ta,8
+sent_0091,2.18 Viswasam result nu nenaikiren,218 Viswasam result nu nenaikiren,5,na ta en ta ta,5
+sent_0092,"பரியேரும் பெருமாள், அசுரன் படங்களை எற்றுக் கொண்ட நாம் இந்த படத்தையும் ஏற்றுக் கொள்ள தான் வேண்டும்.",பரயரம பரமள அசரன படஙகள எறறக கணட நம இநத படததயம ஏறறக களள தன வணடம,13,ta ta ta ta ta ta ta ta ta ta ta ta ta,13
+sent_0093,அகில இந்திய தலித் மக்கள் சார்பாக படம் வெற்றி பெற வாழ்த்துக்கள்,அகல இநதய தலத மககள சரபக படம வறற பற வழததககள,9,ta ta ta ta ta ta ta ta ta,9
+sent_0094,Thalaivar kannula irukura power than avar irukum vetriyin tower.....chinna pasanga ellam orama poitu vilaiyadunga......thalaivaaaa is comingggggg,Thalaivar kannula irukura power than avar irukum vetriyin towerchinna pasanga ellam orama poitu vilaiyadungathalaivaaaa is comingggggg,16,ta ta ta en ta ta ta ta na ta ta ta ta ta en en,16
+sent_0095,Ivaruku vayase agadha Love u vikram sir,Ivaruku vayase agadha Love u vikram sir,7,ta ta ta en en ta en,7
+sent_0096,mass da ...singam varudhu ...puli ..vedhalam yella mudtu kelambunga pa,mass da singam varudhu puli vedhalam yella mudtu kelambunga pa,10,ta ta ta ta ta ta ta ta ta ta,10
+sent_0097,Amazing Film NGK Fire ... Next Loading Kaappaan .,Amazing Film NGK Fire Next Loading Kaappaan,7,en en na en en en ta,7
+sent_0098,HiNdI version,HiNdI version,2,na en,2
+sent_0099,Suriya anna voice konjam idathla karthi anna maari kettath enakumattuma,Suriya anna voice konjam idathla karthi anna maari kettath enakumattuma,10,ta ta en ta ta ta ta ta ta ta,10
+sent_0100,Enna da meme poda conceft ethume illa....worst da....,Enna da meme poda conceft ethume illaworst da,8,ta ta en ta en ta na ta,8
+sent_0101,படம் ரொம்ப ஹிட் ஆக வேண்டுமானால் மறுமலர்ச்சி படத்தில் வருவது போல ஒரு பாடல் வேண்டும்,படம ரமப ஹட ஆக வணடமனல மறமலரசச படததல வரவத பல ஒர படல வணடம,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0102,fastest 300k likes in world.. wowwww,fastest 300k likes in world wowwww,6,en na en en en en,6
+sent_0103,Sorry bha ... Plz konjam yellam othungu ... Asuran vanthachi verithaname intha padam than,Sorry bha Plz konjam yellam othungu Asuran vanthachi verithaname intha padam than,12,en ta en ta ta ta ta ta ta ta ta ta,12
+sent_0104,ponnunga currecta irukanum sinna vayasula irunthu family la solli kudukanum ipala 12th mudichathume kalyanam panidanum,ponnunga currecta irukanum sinna vayasula irunthu family la solli kudukanum ipala 12th mudichathume kalyanam panidanum,15,ta na ta ta ta ta en ta ta ta ta na ta ta ta,15
+sent_0105,Petta superstar back to 1995 super.,Petta superstar back to 1995 super,6,ta en en en na en,6
+sent_0106,Anna.... Neeum Vera level .. Un Padam um Vera level .. Un protection um vera level..,Anna Neeum Vera level Un Padam um Vera level Un protection um vera level,14,ta ta ta en ta ta ta ta en ta en ta ta en,14
+sent_0107,Entha trailer poi Dis like pannuarenga la enna pannalam,Entha trailer poi Dis like pannuarenga la enna pannalam,9,ta en ta en en ta ta ta ta,9
+sent_0108,Surya ku no jodi Single the masssss,Surya ku no jodi Single the masssss,7,ta ta ta ta en en ta,7
+sent_0109,Thalaiva yennaikum unna win panna mudiyathu,Thalaiva yennaikum unna win panna mudiyathu,6,ta ta ta en ta ta,6
+sent_0110,0.48 0.49 thalaiva unakku vayasu 53 yaaa,048 049 thalaiva unakku vayasu 53 yaaa,7,na na ta ta ta na ta,7
+sent_0111,Kadaisila 96 rajini tha yaa uplose mass thukuthu,Kadaisila 96 rajini tha yaa uplose mass thukuthu,8,ta na ta ta ta en ta ta,8
+sent_0112,2019 Mega hit blockbuster Movie in tamil cinema nerkonda paarvai,2019 Mega hit blockbuster Movie in tamil cinema nerkonda paarvai,10,na en en en en en na en ta ta,10
+sent_0113,Kai fake makeup plzz thoda accha kro yeh ek legend ki biopic hai plzz,Kai fake makeup plzz thoda accha kro yeh ek legend ki biopic hai plzz,14,ta en en en ta ta ta en ta en ta en ta en,14
+sent_0114,எட்டையபுரம் தமிழ்நாடு சேனைத்தலைவர் வீரபாகு பேரவை சார்பாக திரைப்படம் வெற்றிபெற வாழ்த்துக்கள்... இயக்குனருக்கு நன்றிகள் பல...,எடடயபரம தமழநட சனததலவர வரபக பரவ சரபக தரபபடம வறறபற வழததககள இயககனரகக நனறகள பல,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0115,Bigil hit o illayo but kaidhi payangara hit but atlee vitra maattaan. Avan trailer varla,Bigil hit o illayo but kaidhi payangara hit but atlee vitra maattaan Avan trailer varla,15,ta en ta ta en ta ta en en ta ta ta ta en ta,15
+sent_0116,பாண்டிச்சேரி மாவட்டம் கன்னிக்கோயில் 5 ஆம் நம்பர் சாராயக்கடை சார்பாக..இந்த படம் வெற்றி பெற வாழ்த்துகள்..,பணடசசர மவடடம கனனககயல 5 ஆம நமபர சரயககட சரபகஇநத படம வறற பற வழததகள,12,ta ta ta na ta ta ta ta ta ta ta ta,12
+sent_0117,Who say in thumbnail Surya looks like Petta Rajini,Who say in thumbnail Surya looks like Petta Rajini,9,en en en en ta en en ta ta,9
+sent_0118,Very nyzzzzzz Guysssss,Very nyzzzzzz Guysssss,3,en na en,3
+sent_0119,Tamil movieya illa English movieya tamila illa,Tamil movieya illa English movieya tamila illa,7,na en ta na na ta ta,7
+sent_0120,All time record in Tamil cinema,All time record in Tamil cinema,6,en en en en na en,6
+sent_0121,ஹீரோவ பாத்த டாக்டர் அண்புமணி போலவே இருக்கு எனக்கு மட்டும் தானா,ஹரவ பதத டகடர அணபமண பலவ இரகக எனகக மடடம தன,9,ta ta ta ta ta ta ta ta ta,9
+sent_0122,முத்தரையர்களின் சார்பில் படம் வெற்றி பெற வாழ்த்துகள்...,மததரயரகளன சரபல படம வறற பற வழததகள,6,ta ta ta ta ta ta,6
+sent_0123,Sweet sapda porom apram sugar mathira sapda porom,Sweet sapda porom apram sugar mathira sapda porom,8,en ta ta ta en ta ta ta,8
+sent_0124,Thalaivaaa ...last la andha dance semma,Thalaivaaa last la andha dance semma,6,ta en ta ta en ta,6
+sent_0125,Irukku next month tharamana na sambavam iruku,Irukku next month tharamana na sambavam iruku,7,ta en en ta ta ta ta,7
+sent_0126,Seema like jayam ravi & his movies,Seema like jayam ravi his movies,6,ta en ta ta en en,6
+sent_0127,no words to say thalada vera evanda massna ithanda mass evanalayum kaata mudiyathu therikka vittachuda mass mass mass,no words to say thalada vera evanda massna ithanda mass evanalayum kaata mudiyathu therikka vittachuda mass mass mass,18,en en en en ta ta ta ta ta ta ta ta ta ta ta ta ta ta,18
+sent_0128,kola mass...#Suriya back with bang#NGK #Selvaragavan u r genius man..BGM therikuthu #YuvanshankarRaja,kola massSuriya back with bangNGK Selvaragavan u r genius manBGM therikuthu YuvanshankarRaja,12,ta ta en en na ta en en en na ta ta,12
+sent_0129,END DIALOGUE IS FOR HATERS WHO DISLIKE THIS TRAILER,END DIALOGUE IS FOR HATERS WHO DISLIKE THIS TRAILER,9,en en en en en en en en en,9
+sent_0130,Marana mass Surya Anna TEASER,Marana mass Surya Anna TEASER,5,ta ta ta ta en,5
+sent_0131,Thalaivar sonna maari sweet sapida poren,Thalaivar sonna maari sweet sapida poren,6,ta ta ta en ta ta,6
+sent_0132,G. V. Neenga music mattum pannunga thevaillama hero va nadikkathinga,G V Neenga music mattum pannunga thevaillama hero va nadikkathinga,10,na na ta en ta ta ta en ta ta,10
+sent_0133,Adhi anna ku indha padam maitha padaitha vida mamme dhaan...,Adhi anna ku indha padam maitha padaitha vida mamme dhaan,10,ta ta ta ta ta ta ta ta ta ta,10
+sent_0134,*tha semmmma. Vayasu aanalum ipoo irukura trent ku etha madiri padam edukurathula.mani sir ku nigar avare than.,tha semmmma Vayasu aanalum ipoo irukura trent ku etha madiri padam edukurathulamani sir ku nigar avare than,17,ta ta ta ta ta ta ta ta ta ta ta ta en ta ta ta ta,17
+sent_0135,நாகபதனி மக்கள் சார்பாக படம் வெற்றி பெற வாழ்த்துகள்,நகபதன மககள சரபக படம வறற பற வழததகள,7,ta ta ta ta ta ta ta,7
+sent_0136,"Singam is back with a bang.. ""Naan paathathula thingra onai Ila pasicha Matum thingra singam"" Thaaaaaaaa teaser verri level ""Kola pasioda irukan naduvula Evan vanthalum eri mithichitu poitae irupan"" Thalaivaaaaaaaaaaa proud to be ur fan #verithanama teaser",Singam is back with a bang Naan paathathula thingra onai Ila pasicha Matum thingra singam Thaaaaaaaa teaser verri level Kola pasioda irukan naduvula Evan vanthalum eri mithichitu poitae irupan Thalaivaaaaaaaaaaa proud to be ur fan verithanama teaser,37,ta en en en en en ta ta ta ta ta ta ta ta ta ta en ta en ta ta ta ta en ta ta ta ta ta ta en en en en en ta en,37
+sent_0137,Ithu mari short flim vanthu eruku la. Athoda dir ramana dhana?,Ithu mari short flim vanthu eruku la Athoda dir ramana dhana,11,ta ta en en ta ta ta ta ta ta ta,11
+sent_0138,Ravi kku adutha hit aahhh pottu thakku,Ravi kku adutha hit aahhh pottu thakku,7,ta ta ta en en ta ta,7
+sent_0139,Meendum family yoda paka koodiya oru nalla padam,Meendum family yoda paka koodiya oru nalla padam,8,ta en ta ta ta ta ta ta,8
+sent_0140,last dance vera level remembering veera rajini sir!,last dance vera level remembering veera rajini sir,8,en en ta en en ta ta en,8
+sent_0141,"Rajani looks stunning, but trailer doesn't make impression.",Rajani looks stunning but trailer doesnt make impression,8,ta en en en en en en en,8
+sent_0142,Pagal ker diya mekuu trailer dekha ker...,Pagal ker diya mekuu trailer dekha ker,7,ta ta ta ta en ta ta,7
+sent_0143,மண்டை காஞ்சி போய் இருக்குர ...செம்ம வார்த்தை... பாண்டிச்சேரில இந்தபடம் நல்ல முறையில் திரைக்கு வந்து நல்ல வெற்றி பெற வாழ்த்துக்கள்...150 முறைக்கு மேல் டிரைலர் பார்த்தேன்...சீக்கிரம் படம் ரீலீஸ் பன்னுங்க மோகன் அண்ணா..,மணட கஞச பய இரககர சமம வரதத பணடசசரல இநதபடம நலல மறயல தரகக வநத நலல வறற பற வழததககள150 மறகக மல டரலர பரததனசககரம படம ரலஸ பனனஙக மகன அணண,25,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta na ta ta ta ta ta ta ta ta ta,25
+sent_0144,Bigil lavadhu mannavadhu indhe padam pakkanum,Bigil lavadhu mannavadhu indhe padam pakkanum,6,ta ta ta ta ta ta,6
+sent_0145,Vara level pa mass aha iruku,Vara level pa mass aha iruku,6,ta en ta ta ta ta,6
+sent_0146,Bigil trailer paathutu vanthavanga like pannunga,Bigil trailer paathutu vanthavanga like pannunga,6,ta en ta ta en ta,6
+sent_0147,1 hour kulla 469k likes 6.4m views ah ppa,1 hour kulla 469k likes 64m views ah ppa,9,na en ta na en na en en ta,9
+sent_0148,Pandey ku acting varala . School pasanga nadagathula nadikara adu madiri iruku pandey Voda acting. 1st film apadingaradala mannichu vitralam,Pandey ku acting varala School pasanga nadagathula nadikara adu madiri iruku pandey Voda acting 1st film apadingaradala mannichu vitralam,19,ta ta en ta en ta ta ta ta ta ta ta ta en na en ta ta ta,19
+sent_0149,"திரைப்படத்தின் முன்னோட்டத்தை பார்த்தவுடனேயே சிலர் (நாடக காதல் கோஷ்டி) பதறுகிறார்கள் என்றால் நாம் சரியான பாதையில் பயணித்துக்கொண்டிருக்கிறோம் என்பதை புரிந்து கொள்ள வேண்டும், இந்த திரைப்படம் உருவாக உழைத்த அனைவருக்கும் எனது வாழ்த்துக்கள், படம் மாபெரும் வெற்றியடைய வாழ்த்துக்கள்.",தரபபடததன மனனடடதத பரததவடனய சலர நடக கதல கஷட பதறகறரகள எனறல நம சரயன பதயல பயணததககணடரககறம எனபத பரநத களள வணடம இநத தரபபடம உரவக உழதத அனவரககம எனத வழததககள படம மபரம வறறயடய வழததககள,28,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,28
+sent_0150,"கற்பழித்து, அவர்கள்களை காட்டுக்குள் கருகளைத்து, கழுத்தருத்து கொலைசெய்யபட்ட பெண்களின் சார்பாக இத்திரைபடம் வெற்றியடைய வாழ்த்துகிறேன்.",கறபழதத அவரகளகள கடடககள கரகளதத கழததரதத கலசயயபடட பணகளன சரபக இததரபடம வறறயடய வழததகறன,11,ta ta ta ta ta ta ta ta ta ta ta,11
+sent_0151,Thalaivaaaaaa marana mass,Thalaivaaaaaa marana mass,3,ta ta ta,3
+sent_0152,ஊராளிகவுண்டர் சார்பாக இத்திரைப்படம் வெற்றி பெற ஆதரிக்கிறோம்,ஊரளகவணடர சரபக இததரபபடம வறற பற ஆதரககறம,6,ta ta ta ta ta ta,6
+sent_0153,Video pakkamalea like pottavanga yaru Me . I love. ADHI and his music,Video pakkamalea like pottavanga yaru Me I love ADHI and his music,12,en ta en ta ta en en en ta en en en,12
+sent_0154,Yuvan for life Yuvan fans hit like,Yuvan for life Yuvan fans hit like,7,ta en en ta en en en,7
+sent_0155,Aishwarya's slang was not like Sri Lankan Tamil it's different.,Aishwaryas slang was not like Sri Lankan Tamil its different,10,ta en en en en ta ta na en en,10
+sent_0156,Polich adukiii...katta waiting..die hard fanss kerala,Polich adukiiikatta waitingdie hard fanss kerala,6,ta ta na en en na,6
+sent_0157,Thevidiya Ajith fans kadharal autolike da nu,Thevidiya Ajith fans kadharal autolike da nu,7,ta ta en ta en ta ta,7
+sent_0158,Starting scene pakum pothu suriya looks like birava vijay,Starting scene pakum pothu suriya looks like birava vijay,9,en en ta ta ta en en ta ta,9
+sent_0159,தல தளபதி ரசிகர்கள வச்சு வியாபாரம் பாக்கலாம்னு இவனுங்களுக்கு நினைப்பு போல... முட்டா புண்ட மாதிரி ரசிக சண்ட போடாம கொஞ்சம் சிந்திச்சு பாருங்க டா டேய்...,தல தளபத ரசகரகள வசச வயபரம பககலமன இவனஙகளகக நனபப பல மடட பணட மதர ரசக சணட படம கஞசம சநதசச பரஙக ட டய,20,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,20
+sent_0160,ராணிப்பேட்டை மாவட்டம் சார்பாக இத்திரைப்படம் மாபெரும் வெற்றி பெற்ற வாழ்த்துக்கள்.. வது வெள்ளி விழா காண வாழ்த்துகள்,ரணபபடட மவடடம சரபக இததரபபடம மபரம வறற பறற வழததககள வத வளள வழ கண வழததகள,13,ta ta ta ta ta ta ta ta ta ta ta ta ta,13
+sent_0161,Yuvan shankar raja bgm Vera level,Yuvan shankar raja bgm Vera level,6,ta ta ta na ta en,6
+sent_0162,Joaquin Phoenix adhi anna kita irundhu nadika kathukanum,Joaquin Phoenix adhi anna kita irundhu nadika kathukanum,8,en en ta ta ta ta ta ta,8
+sent_0163,மானங்கெட்டவங்களா ! சாதிய ஒழிக்கலாம் ன்னு இங்க போராடிட்டு இருந்தா இந்த தேவடியாப்புள்ளிங்க வளக்குறதுலயே குறியா இருக்கானுங்க,மனஙகடடவஙகள சதய ஒழககலம னன இஙக பரடடட இரநத இநத தவடயபபளளஙக வளககறதலய கறய இரககனஙக,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0164,Haters dislike pannitoom nu happy akaathenka wait and see on 20Aug Mersal teaser,Haters dislike pannitoom nu happy akaathenka wait and see on 20Aug Mersal teaser,13,en en ta ta en ta en en en en na ta en,13
+sent_0165,"Paithiya kara makkal irukira varaikum, indha madhiri thiramaiya illama, rasigarla vachikinu kalatha ottara herosla ivarum orutharu....",Paithiya kara makkal irukira varaikum indha madhiri thiramaiya illama rasigarla vachikinu kalatha ottara herosla ivarum orutharu,16,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,16
+sent_0166,Surya Annan and Mohanlal sir,Surya Annan and Mohanlal sir,5,ta ta en ta en,5
+sent_0167,Rajini: Naan arasiyal varathu uruthi… Jayam ravi: Adai ithu 96 yara yamathuringa?,Rajini Naan arasiyal varathu uruthi Jayam ravi Adai ithu 96 yara yamathuringa,12,ta ta ta ta ta ta ta ta ta na ta ta,12
+sent_0168,"Yogi babu.. dai ne elam rajiniye kalaikara,... Ne oru aalu punda.. Nu ....tha pinchidum",Yogi babu dai ne elam rajiniye kalaikara Ne oru aalu punda Nu tha pinchidum,14,ta ta ta ta ta ta ta ta ta ta ta ta ta ta,14
+sent_0169,Hiphop Aadhi anna fans like here,Hiphop Aadhi anna fans like here,6,en ta ta en en en,6
+sent_0170,Na vijay fan but Surya Anna trailer super,Na vijay fan but Surya Anna trailer super,8,ta ta en en ta ta en en,8
+sent_0171,"2014ல கொடுத்த தேர்தல் வாக்குறுதி மாதிரி ரொம்ப சிறப்பா,இனிப்பா இருக்கு வந்த பிறகு தான் தெரியும்...",2014ல கடதத தரதல வககறத மதர ரமப சறபபஇனபப இரகக வநத பறக தன தரயம,12,na ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0172,Siruthaiuylaum karthiku ponnu irukum kavalan flop Apo bigil,Siruthaiuylaum karthiku ponnu irukum kavalan flop Apo bigil,8,ta ta ta ta ta en ta ta,8
+sent_0173,30m view varunu solluravinga mattum likes podunga,30m view varunu solluravinga mattum likes podunga,7,na en ta ta ta en ta,7
+sent_0174,Jai ajith Jai ajith Sena,Jai ajith Jai ajith Sena,5,ta ta ta ta ta,5
+sent_0175,Vani bhojan fans hit like here,Vani bhojan fans hit like here,6,ta ta en en en en,6
+sent_0176,"ponggaluku kandippa sweet sappude porom, marana mass",ponggaluku kandippa sweet sappude porom marana mass,7,ta ta en ta ta ta ta,7
+sent_0177,அதர்மம் தலை தூக்கும் நேரம் தர்மம் தலை காக்கும்,அதரமம தல தககம நரம தரமம தல கககம,7,ta ta ta ta ta ta ta,7
+sent_0178,"Padam super irukhu na ,verum hit mattum illa super,mega,power-hit",Padam super irukhu na verum hit mattum illa supermegapowerhit,9,ta en ta ta ta en ta ta en,9
+sent_0179,நான் அரசியலுக்கு வருவேன் இணுமா நீ வர,நன அரசயலகக வரவன இணம ந வர,6,ta ta ta ta ta ta,6
+sent_0180,Yuvan Vera level bgm Suma therikutu Bgm hit like,Yuvan Vera level bgm Suma therikutu Bgm hit like,9,ta ta en na ta ta na en en,9
+sent_0181,Surya gethu,Surya gethu,2,ta ta,2
+sent_0182,Any body after bigil fisrt look,Any body after bigil fisrt look,6,en en en ta en en,6
+sent_0183,Last vara dialog thavaravera onnum edupadala. Movie ya paathutu comment pandren,Last vara dialog thavaravera onnum edupadala Movie ya paathutu comment pandren,11,en ta en ta ta ta en ta ta en ta,11
+sent_0184,"SK anna fans like it. , hero block buster like",SK anna fans like it hero block buster like,9,na ta en en en en en en en,9
+sent_0185,மொத்ததில் சாதி இன்னும் இருக்கு...! வெற்றி பெற வாழ்த்துக்கள் திரைப்படம்,மதததல சத இனனம இரகக வறற பற வழததககள தரபபடம,8,ta ta ta ta ta ta ta ta,8
+sent_0186,surya annan semaaaa masssss look.......and very very super masssss teaser........surya annan......I love you........Singathin vettai aarambam daa..........ithu singathin kottai da......,surya annan semaaaa masssss lookand very very super masssss teasersurya annanI love youSingathin vettai aarambam daaithu singathin kottai da,19,ta ta ta ta en en en en ta na na en na ta ta ta ta ta ta,19
+sent_0187,தொல்.குருமாவளவன் சார்பாக இப்படம் அசுர வெற்றி பெற வாழ்த்துகிறேன்....,தலகரமவளவன சரபக இபபடம அசர வறற பற வழததகறன,7,ta ta ta ta ta ta ta,7
+sent_0188,Komali pundaiku nadipu pubdaiyae varala thevudiyan ajith,Komali pundaiku nadipu pubdaiyae varala thevudiyan ajith,7,ta ta ta ta ta ta ta,7
+sent_0189,Padam paathuttu trailer paakka vandhavanga hit like Padam eppa semma mass vera level,Padam paathuttu trailer paakka vandhavanga hit like Padam eppa semma mass vera level,13,ta ta en ta ta en en ta ta ta ta ta en,13
+sent_0190,ஏண்டா திருநங்கைகளவிட அசிங்கமா இருக்குற இந்த பிள்ளைகளாதான அவுனுக லவ் பன்றானுக,ஏணட தரநஙககளவட அசஙகம இரககற இநத பளளகளதன அவனக லவ பனறனக,9,ta ta ta ta ta ta ta ta ta,9
+sent_0191,Aiyya pon manickavel titlea vachurukinga padam vetri pera vazhthukal,Aiyya pon manickavel titlea vachurukinga padam vetri pera vazhthukal,9,ta ta na na ta ta ta ta ta,9
+sent_0192,Vijay Anna fans hit like here,Vijay Anna fans hit like here,6,ta ta en en en en,6
+sent_0193,படம் வெற்றி சிறந்த வெற்றிப்படமாக அமைய வாழ்த்துகள் நண்பா,படம வறற சறநத வறறபபடமக அமய வழததகள நணப,7,ta ta ta ta ta ta ta,7
+sent_0194,"Ananthi ooda dialogue delivery aapaaa , ""kudumbothoda saenthu naduroadla ninnom nu vaichukaiae"" , etho laegiyam vikiramaathri irukku",Ananthi ooda dialogue delivery aapaaa kudumbothoda saenthu naduroadla ninnom nu vaichukaiae etho laegiyam vikiramaathri irukku,15,ta ta en en ta ta ta ta ta ta ta ta ta ta ta,15
+sent_0195,Unlike pannava ava amma ellam item tha Thevadiyanga pasangala Ungamma koothingala kilichiduvan by surya anna big Rasigai,Unlike pannava ava amma ellam item tha Thevadiyanga pasangala Ungamma koothingala kilichiduvan by surya anna big Rasigai,17,en ta ta ta ta en ta ta ta ta ta ta en ta ta en ta,17
+sent_0196,Ethirpartha alavukku illa...bgm mattama irukku... Why ghibran,Ethirpartha alavukku illabgm mattama irukku Why ghibran,7,ta ta ta ta ta en na,7
+sent_0197,Trailer parka vadhavanga ellam oru like podunga,Trailer parka vadhavanga ellam oru like podunga,7,en en ta ta ta en ta,7
+sent_0198,Mass hit 2.0. Hit like if you like Akshay's look,Mass hit 20 Hit like if you like Akshays look,10,ta en na en en en en en ta en,10
+sent_0199,"I would like to dedicate கும்பலாக சுத்துவோம், நாங்க ஐயோ அம்மானு கத்துவோம் song to all Rajini fans out there",I would like to dedicate கமபலக சததவம நஙக ஐய அமமன கததவம song to all Rajini fans out there,18,en en en en en ta ta ta ta ta ta en en en ta en en en,18
+sent_0200,"Ipoo dhan da thala,thala maari irukaaru",Ipoo dhan da thalathala maari irukaaru,6,ta ta ta ta ta ta,6
+sent_0201,Hey இது 96 யார ஏமாத்த பாக்குறிங்க,Hey இத 96 யர ஏமதத பககறஙக,6,en ta na ta ta ta,6
+sent_0202,mazaak banakay rakh diya jaylallita ka. censor board shud ban this movie,mazaak banakay rakh diya jaylallita ka censor board shud ban this movie,12,ta ta ta ta ta ta en en en en en en,12
+sent_0203,Stunning visuals ... Awesome #KvAnand #Suriyaaaa Anna...,Stunning visuals Awesome KvAnand Suriyaaaa Anna,6,en en en ta ta ta,6
+sent_0204,omg she look like same,omg she look like same,5,en en en en en,5
+sent_0205,Nee VA Thala vasanalum algum styleum ungala vittu pogala,Nee VA Thala vasanalum algum styleum ungala vittu pogala,9,ta na ta ta ta na ta ta ta,9
+sent_0206,Bigil a vida sema karthi anna,Bigil a vida sema karthi anna,6,ta na ta ta ta ta,6
+sent_0207,0:43 arun vijay and 1:04 str bgm semma like if u like,043 arun vijay and 104 str bgm semma like if u like,12,na ta ta en na na na ta en en en en,12
+sent_0208,Ajith: Therikka Vidalaama? Vijay: Therikka Vidalaame...,Ajith Therikka Vidalaama Vijay Therikka Vidalaame,6,ta ta ta ta ta ta,6
+sent_0209,Next ulaga nayagan namma chiyan vikram thaan,Next ulaga nayagan namma chiyan vikram thaan,7,en ta ta ta ta ta ta,7
+sent_0210,Arrow series matri eruku but real osm,Arrow series matri eruku but real osm,7,en en ta ta en en na,7
+sent_0211,INDvsPak aavathu mudiyavathu.... Waiting 4 10M views,INDvsPak aavathu mudiyavathu Waiting 4 10M views,7,na ta ta en na na en,7
+sent_0212,புதிய முயற்சிக்கு வரவேற்க்கிறோம் அது கொஞ்சம் புரியுர மாதிரியும் இருந்தா நல்லாருக்கும்...,பதய மயறசகக வரவறககறம அத கஞசம பரயர மதரயம இரநத நலலரககம,9,ta ta ta ta ta ta ta ta ta,9
+sent_0213,Apoooooo nalla padathula nadikka maatinga? Mokka padama thedi poyi nadipinga annanum thambiyum... Ennamo panni tholainga,Apoooooo nalla padathula nadikka maatinga Mokka padama thedi poyi nadipinga annanum thambiyum Ennamo panni tholainga,15,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,15
+sent_0214,Ithan highest peak aah irukum Dhanush anna ku,Ithan highest peak aah irukum Dhanush anna ku,8,ta en en ta ta ta ta ta,8
+sent_0215,ippo illa ennaikum en thalaivan STR dha masss,ippo illa ennaikum en thalaivan STR dha masss,8,ta ta ta ta ta na ta ta,8
+sent_0216,My manager : yenyavsirikura Me to my manager : Sir enaku yarachu serious ah pesuna titina tension ah irunda siripu varum sir Manager: first doctor paaru Enaku mattum dan inda prechana iruka terla mathavum mudila,My manager yenyavsirikura Me to my manager Sir enaku yarachu serious ah pesuna titina tension ah irunda siripu varum sir Manager first doctor paaru Enaku mattum dan inda prechana iruka terla mathavum mudila,33,en en ta en en en en en ta ta en ta ta ta en ta ta ta ta en en en en ta ta ta ta ta ta ta ta ta ta,33
+sent_0217,Trending No . 1,Trending No 1,3,en en na,3
+sent_0218,Ayan Combo is Back... Marana Waiting... Any Ayan fans here,Ayan Combo is Back Marana Waiting Any Ayan fans here,10,ta en en en ta en en ta en en,10
+sent_0219,Gotha like kuda vanga mudiyala neeyalam enga annan thalapathy compateator poda aamai kunjugala poi savunga da,Gotha like kuda vanga mudiyala neeyalam enga annan thalapathy compateator poda aamai kunjugala poi savunga da,16,ta en ta ta ta ta ta ta ta ta en ta ta ta ta ta,16
+sent_0220,Argument scene vera level Thala vs Ponday,Argument scene vera level Thala vs Ponday,7,en en ta en ta en ta,7
+sent_0221,நல்ல ஜாதியில் பிறந்தவன் எந்த தமிழனும் எந்த ஜாதி பெண் மானம் போக விட மாட்டான் அது தான் தமிழர் பண்பாடு...... கீழ் ஜாதி என்று சொல்லி பெண்களை சதையாக பார்க்கும் நிலைமை தான் இப்போது உள்ளது......,நலல ஜதயல பறநதவன எநத தமழனம எநத ஜத பண மனம பக வட மடடன அத தன தமழர பணபட கழ ஜத எனற சலல பணகள சதயக பரககம நலம தன இபபத உளளத,27,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,27
+sent_0222,Varlam varlam va varlam va Bhairava,Varlam varlam va varlam va Bhairava,6,ta ta ta ta ta ta,6
+sent_0223,Trailer marana mass FdFs poravanga therikkavidunga Saadha sk padam naale comedy yaathaan irukkum. Anna ithu different script. Next level Sk,Trailer marana mass FdFs poravanga therikkavidunga Saadha sk padam naale comedy yaathaan irukkum Anna ithu different script Next level Sk,20,en ta ta na ta ta ta na ta ta en ta ta ta ta en en en en na,20
+sent_0224,Yappaaaa samy..... ippa thaanya ajith padam thukku theatre ku poganumnu thonuthu.... ithukku munnaadiii yellam.......... onnum solrathukku illa....#goodmovienerkondapaarvai,Yappaaaa samy ippa thaanya ajith padam thukku theatre ku poganumnu thonuthu ithukku munnaadiii yellam onnum solrathukku illagoodmovienerkondapaarvai,17,ta ta ta ta ta ta ta en ta ta ta ta ta ta ta ta na,17
+sent_0225,"Oru cinema psycho ,psycho padam eduthal epdi irukum?!",Oru cinema psycho psycho padam eduthal epdi irukum,8,ta en en en ta ta ta ta,8
+sent_0226,Ena Da sollama kolama teaser la release panniruga Any way super teaser,Ena Da sollama kolama teaser la release panniruga Any way super teaser,12,ta ta ta ta en ta en ta en en en en,12
+sent_0227,superb teaser by kanyakumari jilla vijay fanzzzzzzzzzzzzzzz,superb teaser by kanyakumari jilla vijay fanzzzzzzzzzzzzzzz,7,en en en ta ta ta en,7
+sent_0228,திரைப்படம் வெற்றி பெற வன்னிய நண்பர்கள் சார்பாக வாழ்த்துக்கள்,தரபபடம வறற பற வனனய நணபரகள சரபக வழததககள,7,ta ta ta ta ta ta ta,7
+sent_0229,Malaysians hit like ! Last dialogue malay dialogue,Malaysians hit like Last dialogue malay dialogue,7,en en en en en en en,7
+sent_0230,Rajnikanth looks young like telugu hero nani,Rajnikanth looks young like telugu hero nani,7,ta en en en en en ta,7
+sent_0231,திருச்சி மாவட்டம் முத்தரையரின் முரட்டு பக்தர்கள் சார்பாக படம் வெற்றி பெற வாழ்த்துக்கள்,தரசச மவடடம மததரயரன மரடட பகதரகள சரபக படம வறற பற வழததககள,10,ta ta ta ta ta ta ta ta ta ta,10
+sent_0232,"மண்ணும் ஆறறிவுள்ள பெண்ணும் ஒன்றா? பெண்ணின் யோனியில் தான் மனிதனின் கெளரவம் இருக்கிறது? பிற்படுத்தப்பட்ட பெண்ணை தலித் திருமணம் செய்தால் தான் பிரச்சினையா? அல்லது அதே பிற்படுத்தப்பட்ட வகுப்பைச் சேர்ந்த நாவிதர், வண்ணார், குயவர் இவர்கள் திருமணம் செய்தால் சம்மதமா? மனிதனை மீண்டும் காட்டுமிராண்டி ஆக்கும் படம். இதை பார்த்து வெட்டி கொலை செய்துவிட்டு வழக்குகளை சுமக்க வேண்டாம். அவன் பணம் சம்பாதிக்க நம்மை உசுப்பி விடுகிறார்கள்.",மணணம ஆறறவளள பணணம ஒனற பணணன யனயல தன மனதனன களரவம இரககறத பறபடததபபடட பணண தலத தரமணம சயதல தன பரசசனய அலலத அத பறபடததபபடட வகபபச சரநத நவதர வணணர கயவர இவரகள தரமணம சயதல சமமதம மனதன மணடம கடடமரணட ஆககம படம இத பரதத வடட கல சயதவடட வழகககள சமகக வணடம அவன பணம சமபதகக நமம உசபப வடகறரகள,48,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,48
+sent_0233,Orutharu mela viswasam katthurethu kaage yen ennoruthareh aasingam paduturingge!,Orutharu mela viswasam katthurethu kaage yen ennoruthareh aasingam paduturingge,9,ta ta ta ta ta ta ta ta ta,9
+sent_0234,"finishing dialogue thala fanshuku shoot agum. yenna avunga avar mela viswasham kata, mathavangala asigna patuthuvanga",finishing dialogue thala fanshuku shoot agum yenna avunga avar mela viswasham kata mathavangala asigna patuthuvanga,15,en en ta na en ta ta ta ta ta ta ta ta ta ta,15
+sent_0235,Editing is kinda new i like it,Editing is kinda new i like it,7,en en en en en en en,7
+sent_0236,ஏன்டா படிக்காத முட்டா புண்டைங்க தான் இப்படி பண்ணுவான் தேவிடியா பைய director,ஏனட படககத மடட பணடஙக தன இபபட பணணவன தவடய பய director,10,ta ta ta ta ta ta ta ta ta en,10
+sent_0237,Kaithi padam pathutu trailer pathavaga yar yar like pannuga,Kaithi padam pathutu trailer pathavaga yar yar like pannuga,9,ta ta ta en ta ta ta en ta,9
+sent_0238,Massss vera level ASURAN Panthayam adikum,Massss vera level ASURAN Panthayam adikum,6,ta ta en ta ta ta,6
+sent_0239,"Dei vijai ,...vandhu ivanuga poolai oombudaa.appayaavadhu budhi varum. Yepdi nadikkanumnu",Dei vijai vandhu ivanuga poolai oombudaaappayaavadhu budhi varum Yepdi nadikkanumnu,10,ta ta ta ta ta ta ta ta ta ta,10
+sent_0240,1.36 intha scence la ava pesayila news vaasikira maathiri irruku,136 intha scence la ava pesayila news vaasikira maathiri irruku,10,na na na ta ta ta en ta ta ta,10
+sent_0241,Nan 75 views ah cross panniten....anyone else like me....,Nan 75 views ah cross pannitenanyone else like me,9,ta na en en en na en en en,9
+sent_0242,தென்மாவட்ட கவரா நாயுடுகளின் சார்பாக படம் வெற்றி பெற வாழ்த்துக்கள்,தனமவடட கவர நயடகளன சரபக படம வறற பற வழததககள,8,ta ta ta ta ta ta ta ta,8
+sent_0243,Heyyy simbuuuu.... surprise... ummmmmaaaa love u da.....,Heyyy simbuuuu surprise ummmmmaaaa love u da,7,en ta en ta en en na,7
+sent_0244,Thala semma mass.... thala resikan from kerala,Thala semma mass thala resikan from kerala,7,ta ta ta ta ta en na,7
+sent_0245,ellarukkum onnu sollikiran mudhalla padam pathuttu vandhu sollunga same kadhaya illayanu adha vuttuttu adhe kadhai orae madhiri fightlam solladhinga,ellarukkum onnu sollikiran mudhalla padam pathuttu vandhu sollunga same kadhaya illayanu adha vuttuttu adhe kadhai orae madhiri fightlam solladhinga,19,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta na ta,19
+sent_0246,Jayam ravi- enna da panni vachurukinga,Jayam ravi enna da panni vachurukinga,6,ta ta ta ta ta ta,6
+sent_0247,Paaaa trailer ah therikaa vetutanga athuvum last massooo massuuuu,Paaaa trailer ah therikaa vetutanga athuvum last massooo massuuuu,9,ta en ta ta ta at en ta ta,9
+sent_0248,"வேலைக்கு ஆட்கள் தேவை இடம் : சென்னை வயது :18 to 28 வருமானம் :15000 ‍to 25000 நிரந்தர வேலை தங்குமிடம் இலவசம் , 6374009065",வலகக ஆடகள தவ இடம சனன வயத 18 to 28 வரமனம 15000 to 25000 நரநதர வல தஙகமடம இலவசம 6374009065,18,ta ta ta ta ta ta na en na ta na en na ta ta ta ta na,18
+sent_0249,Ithan padatha matum ranjith pathan vairu erum avanku aiyoo unmiya la solitangaleeee,Ithan padatha matum ranjith pathan vairu erum avanku aiyoo unmiya la solitangaleeee,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0250,Jayam ravi and kajal agarwal back with a bang....,Jayam ravi and kajal agarwal back with a bang,9,ta ta en ta ta en en en en,9
+sent_0251,Apaaaa masal vadaa masal vadaa than ya,Apaaaa masal vadaa masal vadaa than ya,7,ta ta ta ta ta ta ta,7
+sent_0252,En bah dsp ah remember panringa... Arrear,En bah dsp ah remember panringa Arrear,7,ta ta na en en ta ta,7
+sent_0253,31m views only 1 day suriyaaaaaaaaaaa fans daaaaaaaaaaaaaaaaaaaaaaa..............maranaaaaaaa masssssss,31m views only 1 day suriyaaaaaaaaaaa fans daaaaaaaaaaaaaaaaaaaaaaamaranaaaaaaa masssssss,9,na en en na en ta en ta ta,9
+sent_0254,"விருது நகர் மாவட்ட முக்குலத்தோர், நாடார், யாதவர் சார்பாக வாழ்த்துக்கள்",வரத நகர மவடட மககலததர நடர யதவர சரபக வழததககள,8,ta ta ta ta ta ta ta ta,8
+sent_0255,வண்ணிய இன மக்கள் சார்பக படம் வெற்றி பெற வாழ்த்துக்கள் டைரக்டர் மோகன் சார்,வணணய இன மககள சரபக படம வறற பற வழததககள டரகடர மகன சர,11,ta ta ta ta ta ta ta ta ta ta ta,11
+sent_0256,Varalam varalam va varalam vaaa Bairavaaaaaaaaaa,Varalam varalam va varalam vaaa Bairavaaaaaaaaaa,6,ta ta ta ta ta ta,6
+sent_0257,Nellai chiyaan Vikram veriyargal Vara level Thalaiva chiyaan Vikram பக்கா மாஸ் கோல மாஸ் I am writing Your movie,Nellai chiyaan Vikram veriyargal Vara level Thalaiva chiyaan Vikram பகக மஸ கல மஸ I am writing Your movie,18,ta ta ta ta ta en ta ta ta ta ta ta ta en en en en en,18
+sent_0258,Kappan movie lalattan suriya katta waiting.....,Kappan movie lalattan suriya katta waiting,6,ta en ta ta ta en,6
+sent_0259,Nan Paatha Dhalam Thingara Onaai Ella.... Pasicha Mattum Vettai Aadra Singam....S.DuraiSingam,Nan Paatha Dhalam Thingara Onaai Ella Pasicha Mattum Vettai Aadra SingamSDuraiSingam,11,ta ta ta ta ta ta ta ta ta ta ta,11
+sent_0260,NGK teaser - fire Kaappaan teaser - theriiiiiiiiiiii Sorararai pottru - marana mass irukumnu solravanga hit like.,NGK teaser fire Kaappaan teaser theriiiiiiiiiiii Sorararai pottru marana mass irukumnu solravanga hit like,14,na en en ta en ta ta ta ta ta ta ta en en,14
+sent_0261,இந்த படத்தை தடை பண்ணனும்னு ஒரு கும்பல் கிளம்புமே ரொம்ப நாள் கழித்து தமிழில் பதிவுகளை பார்க்க பெருமையாக உள்ளது,இநத படதத தட பணணனமன ஒர கமபல களமபம ரமப நள கழதத தமழல பதவகள பரகக பரமயக உளளத,15,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,15
+sent_0262,Yuvan shankar raja music is best,Yuvan shankar raja music is best,6,ta ta ta en en en,6
+sent_0263,selvaragavan da.....13k dislikers um thooku maatitu savungada,selvaragavan da13k dislikers um thooku maatitu savungada,7,ta na en ta ta ta ta,7
+sent_0264,Naa vijay fans ana surviva song mass,Naa vijay fans ana surviva song mass,7,ta ta en ta na en ta,7
+sent_0265,Thalaya kalaichanga thalapathye kalaichanga aana thalaivar mattum mass,Thalaya kalaichanga thalapathye kalaichanga aana thalaivar mattum mass,8,ta ta ta ta ta ta ta ta,8
+sent_0266,பிராமணர்கள் சார்பாக வாழ்த்துக்கள் படம் வெற்றி பெற‌,பரமணரகள சரபக வழததககள படம வறற பற,6,ta ta ta ta ta ta,6
+sent_0267,Real two lions.. singam suriya & Narasimhm Mohanlal,Real two lions singam suriya Narasimhm Mohanlal,7,en en en ta ta ta ta,7
+sent_0268,Surya is super star waiting for ngk,Surya is super star waiting for ngk,7,ta en en en en en na,7
+sent_0269,All people one about Asuran Movie Keezh Jaadhi Ku oru Padam na Idhu keezh Jaadhi panta Thappa Sutti kaatra movie nalla theriudhu Kandipa Blockbster dhan,All people one about Asuran Movie Keezh Jaadhi Ku oru Padam na Idhu keezh Jaadhi panta Thappa Sutti kaatra movie nalla theriudhu Kandipa Blockbster dhan,25,en en en en ta en na ta ta ta ta ta ta na ta ta ta ta ta en ta ta ta en ta,25
+sent_0270,Aravind swami sirrr fans hit like,Aravind swami sirrr fans hit like,6,ta ta en en en en,6
+sent_0271,kanga looks horrbile for amma role,kanga looks horrbile for amma role,6,ta en en en ta en,6
+sent_0272,Finalla vachan paaru oru scenah... 96 rajini,Finalla vachan paaru oru scenah 96 rajini,7,ta ta ta ta ta na ta,7
+sent_0273,Thala da vera yevann daaaaa ..He is gonna RAGEEE !,Thala da vera yevann daaaaa He is gonna RAGEEE,9,ta ta ta ta ta en en en en,9
+sent_0274,Thala tharu maru Vera level mass,Thala tharu maru Vera level mass,6,ta ta ta ta en ta,6
+sent_0275,Pls kedukadhiga cartoon madhiri nala theridhu,Pls kedukadhiga cartoon madhiri nala theridhu,6,en ta en ta ta ta,6
+sent_0276,THALA ya paakka Kaalaila ye vantomla,THALA ya paakka Kaalaila ye vantomla,6,ta ta ta ta ta ta,6
+sent_0277,"Ippa enna panna poram sweet sapada porom ,super awesome",Ippa enna panna poram sweet sapada porom super awesome,9,ta ta ta ta en ta ta en en,9
+sent_0278,Wishes from Kumari sk Anna fans,Wishes from Kumari sk Anna fans,6,en en ta na ta en,6
+sent_0279,KV anand fan mattum like pannunga,KV anand fan mattum like pannunga,6,na ta en ta en ta,6
+sent_0280,1 mil likes adingada ammai kunjuzz,1 mil likes adingada ammai kunjuzz,6,na en en ta ta ta,6
+sent_0281,U1+Selva kaga vantha..... surya also mass...,U1Selva kaga vantha surya also mass,6,na ta ta ta en ta,6
+sent_0282,m. Raju. Raja. vp,m Raju Raja vp,4,na ta ta na,4
+sent_0283,அடுத்த சுப்பர் ஸ்டார் அடுத்த உலகநாயகன் திராவிட போர் வாள் மூன்றாம் கலைஞர் நான்காம் அண்ணா ஐந்தாம் பெரியார் எங்கள் உதை அண்ணா,அடதத சபபர ஸடர அடதத உலகநயகன தரவட பர வள மனறம கலஞர நனகம அணண ஐநதம பரயர எஙகள உத அணண,17,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,17
+sent_0284,Thaa...Ayan maadhiri oru padam Waiting vera level pa kvanand sir making,ThaaAyan maadhiri oru padam Waiting vera level pa kvanand sir making,11,ta ta ta ta en ta en ta ta en en,11
+sent_0285,Pathu varusathu ku munnadi enna pannitu irunthean nu theriyathula sir masss,Pathu varusathu ku munnadi enna pannitu irunthean nu theriyathula sir masss,11,ta ta ta ta ta ta ta ta ta en ta,11
+sent_0286,First day poaravangalam like poatu poanga,First day poaravangalam like poatu poanga,6,en en ta en ta ta,6
+sent_0287,96 film music ku aedho dialogue sonna pola irunthuchu?,96 film music ku aedho dialogue sonna pola irunthuchu,9,na en en ta ta en ta ta ta,9
+sent_0288,வணக்கம் டா மாப்ள விழுப்புரதில இ௫ந்து படம் 100 சதவீதம் வெற்றி பெறும் வாழ்த்துகள் டா,வணககம ட மபள வழபபரதல இ௫நத படம 100 சதவதம வறற பறம வழததகள ட,12,ta ta ta ta ta ta en ta ta ta ta ta,12
+sent_0289,mokka trailer first like vivegam than,mokka trailer first like vivegam than,6,ta en en en ta ta,6
+sent_0290,"சாதிய காப்பாத்தி அந்த போதையிலேயே இருக்க , அதன் மூலயமாக அரசியல் பண்ண இவனுங்க பகடைக்காய் பெண்கள்.",சதய கபபதத அநத பதயலய இரகக அதன மலயமக அரசயல பணண இவனஙக பகடககய பணகள,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0291,கதறல் சத்தம் காது குளிர கேக்குதுடா...... கூமுட்டை குருமா.....,கதறல சததம கத களர கககதட கமடட கரம,7,ta ta ta ta ta ta ta,7
+sent_0292,Trailer semma ya irukku kandippa idu blockbuster,Trailer semma ya irukku kandippa idu blockbuster,7,en ta ta ta ta ta en,7
+sent_0293,உடுமலைப்பேட்டை சங்கரை ஆணவப் படுகொலை செய்த கௌசல்யாவின் தாய் மற்றும் பாட்டி ஒரு டன் கஞ்சாவை விற்பனைக்கு வைத்திருந்ததற்காக கைது செய்யப்பட்டிருக்கிறார்கள் இந்த கஞ்சா விற்கிற நாய்களுக்கு கௌரவம் என்றால் என்னவென்று தெரியவில்லை இந்த கஞ்சா விற்கிற கூட்டத்திலிருந்து எப்படியாவது தப்பித்து நல்ல குடும்பத்தில் வாழ வேண்டும் என்று நினைத்த அந்தப் பெண்ணின் கனவுகளை சிதைத்து விட்டார்கள்,உடமலபபடட சஙகர ஆணவப படகல சயத கசலயவன தய மறறம படட ஒர டன கஞசவ வறபனகக வததரநததறகக கத சயயபபடடரககறரகள இநத கஞச வறகற நயகளகக கரவம எனறல எனனவனற தரயவலல இநத கஞச வறகற கடடததலரநத எபபடயவத தபபதத நலல கடமபததல வழ வணடம எனற நனதத அநதப பணணன கனவகள சததத வடடரகள,41,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,41
+sent_0294,Sivakarthikeyan fans ayittulla malayalikal like here,Sivakarthikeyan fans ayittulla malayalikal like here,6,ta en ta ta en en,6
+sent_0295,Anaivarum Link share pannuga nanba padam vettriyadaya help pannuga,Anaivarum Link share pannuga nanba padam vettriyadaya help pannuga,9,ta en en ta ta ta ta en ta,9
+sent_0296,Ab tik-tik pe arop lagayegi..nepotism k naare lagayegi..,Ab tiktik pe arop lagayeginepotism k naare lagayegi,8,na na ta ta na na ta ta,8
+sent_0297,Oruthar mela neenga viswasama katradhukaga innoruthra edukku asinga paduthuringa? Superb punch Thala verithanam Adichi thookunga pangalaaligala!,Oruthar mela neenga viswasama katradhukaga innoruthra edukku asinga paduthuringa Superb punch Thala verithanam Adichi thookunga pangalaaligala,16,ta ta ta ta ta ta ta ta ta en en ta ta ta ta ta,16
+sent_0298,#2.0 in kannada dubb tamil movies in kannada,20 in kannada dubb tamil movies in kannada,8,na en na en na en en na,8
+sent_0299,அனைவரும் 'சூத்திரன்' தான் புரியல 'தெவிடிய மகன் ' சொன்னவனுக்கு எதிரா புரட்சி பண்ணல எந்த படமும் எடுக்கல தாழ்த்தப்பட்டவன் சுன்னிய ஊம்ப வண்டனுங்க ஜாதி வெறி பிடிச்ச நாய்ங்க உங்கள பேத்ததுக்கு உங்க அப்பன் bothroom கையடிச்சு விட்டிருக்கலாம்,அனவரம சததரன தன பரயல தவடய மகன சனனவனகக எதர பரடச பணணல எநத படமம எடககல தழததபபடடவன சனனய ஊமப வணடனஙக ஜத வற படசச நயஙக உஙகள பதததகக உஙக அபபன bothroom கயடசச வடடரககலம,28,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta en ta ta,28
+sent_0300,iTS aMAZING tHALA wE lOVE yOU aLWAYS,iTS aMAZING tHALA wE lOVE yOU aLWAYS,7,en en ta en en en en,7
+sent_0301,Ithu selvaragavan movie ah ila ARM da ivlo karuthu oosi podringa nala iruntha seri,Ithu selvaragavan movie ah ila ARM da ivlo karuthu oosi podringa nala iruntha seri,14,ta ta en ta ta na ta ta ta ta ta ta ta ta,14
+sent_0302,Thala daaaa waiting for u Thala,Thala daaaa waiting for u Thala,6,ta ta en en en ta,6
+sent_0303,என் அம்மா தியேட்டரில் கடைசியா பாத்த படம் முதல்வன் திரெளபதி எப்ப ரிலீஸ் னு கேட்டாங்க,என அமம தயடடரல கடசய பதத படம மதலவன தரளபத எபப ரலஸ ன கடடஙக,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0304,Nadipen nayagan surya Anna fans hit like ...,Nadipen nayagan surya Anna fans hit like,7,ta ta ta ta en en en,7
+sent_0305,இந்த படைப்பு எந்த தடையும் இன்றி வெளியாக வேண்டும்,இநத படபப எநத தடயம இனற வளயக வணடம,7,ta ta ta ta ta ta ta,7
+sent_0306,Wowww thala Ajith Kumar is awesome paaaaaaaaa,Wowww thala Ajith Kumar is awesome paaaaaaaaa,7,en ta ta ta en en ta,7
+sent_0307,Thalaivar ku ennum vaisae agala Sema,Thalaivar ku ennum vaisae agala Sema,6,ta ta ta ta ta ta,6
+sent_0308,Yaruda avanunga vanthu Cinna pulla thanama dislike pannittu irukkaranunga,Yaruda avanunga vanthu Cinna pulla thanama dislike pannittu irukkaranunga,9,ta ta ta ta ta ta en ta ta,9
+sent_0309,"ரைட்டு, சூர்யா அடுத்த - தேடி போய் உள்ளார்",ரடட சரய அடதத தட பய உளளர,6,ta ta ta ta ta ta,6
+sent_0310,Nane 50times mela pathurupen ana views apdiyae irukkura madhiri feel aagudhae,Nane 50times mela pathurupen ana views apdiyae irukkura madhiri feel aagudhae,11,ta na ta ta ta en ta ta ta en ta,11
+sent_0311,Wishing good luck to saayesha&Aryan pair....,Wishing good luck to saayeshaAryan pair,6,en en en en na en,6
+sent_0312,Wow ravi anna sema anna neenga,Wow ravi anna sema anna neenga,6,en ta ta ta ta ta,6
+sent_0313,Vera level August la iruku masss,Vera level August la iruku masss,6,ta en en ta ta ta,6
+sent_0314,படம் கண்டிப்பா ஹிட் அடிக்கும் னு நம்புறவங்க மட்டும் like போடுங்க வெறித்தனம்,படம கணடபப ஹட அடககம ன நமபறவஙக மடடம like படஙக வறததனம,10,ta ta ta ta ta ta ta en ta ta,10
+sent_0315,Marana bangam ...ayoo theatre lan enna aaga potho,Marana bangam ayoo theatre lan enna aaga potho,8,ta ta ta en ta ta ta ta,8
+sent_0316,0:41 & 1:01 Repeat mode ARR,041 101 Repeat mode ARR,5,na na en en na,5
+sent_0317,Sivakumar aala baathika paatu irrupan pola Akshay Kumar,Sivakumar aala baathika paatu irrupan pola Akshay Kumar,8,ta ta ta ta ta ta ta ta,8
+sent_0318,idhu play station ... aana game concept onnu thaan. ivan odi oliyura aal illa... thedi adikkira aalu... 3yrs later poraadaama ivan poga maattan ...,idhu play station aana game concept onnu thaan ivan odi oliyura aal illa thedi adikkira aalu 3yrs later poraadaama ivan poga maattan,22,ta en en ta en en ta ta ta ta ta ta ta ta ta ta na en ta ta ta ta,22
+sent_0319,Indha manushanoda dedication ke padam jeikum #Thala Love u,Indha manushanoda dedication ke padam jeikum Thala Love u,9,ta ta en ta ta ta ta en en,9
+sent_0320,ungaluku teasar vudu theriyuma therila tha .......?,ungaluku teasar vudu theriyuma therila tha,6,ta en ta ta ta ta,6
+sent_0321,Rocking bgm Harris Jayaraj HJ fans hit like,Rocking bgm Harris Jayaraj HJ fans hit like,8,en na en ta na en en en,8
+sent_0322,Safe aah play pannitinga bro... Thala & Thalapathy,Safe aah play pannitinga bro Thala Thalapathy,7,en ta en ta en ta ta,7
+sent_0323,Ivlo masssaaa la trailer vanthuchuna haters la ayutha sethuduvangala,Ivlo masssaaa la trailer vanthuchuna haters la ayutha sethuduvangala,9,na ta ta en ta en ta ta ta,9
+sent_0324,Semma semma semma semma str,Semma semma semma semma str,5,ta ta ta ta na,5
+sent_0325,Yenna voice ya.. Paaaaaaa.. Ajith.. Full of positivity,Yenna voice ya Paaaaaaa Ajith Full of positivity,8,ta en ta ta ta en en en,8
+sent_0326,Iam Vijay fan but ragini kalakaporaru,Iam Vijay fan but ragini kalakaporaru,6,en ta en en ta ta,6
+sent_0327,Konar sarpaga valthu thiruma oonoda Katha ethoda over da,Konar sarpaga valthu thiruma oonoda Katha ethoda over da,9,ta ta ta ta ta ta ta en ta,9
+sent_0328,0:12 Ellorum seththa tha sudukadu povanga....!,012 Ellorum seththa tha sudukadu povanga,6,na ta ta ta ta ta,6
+sent_0329,thala mass padam pakkanum pola irukae 7 days irukae,thala mass padam pakkanum pola irukae 7 days irukae,9,ta ta ta ta ta ta na en ta,9
+sent_0330,Paarpan sunnia oombura kootathoda padam pole. Nee evalavu uyar saadhi nu kathunaalum ommale thondailaye erakkuvan di paappaan. Loosu koodhigala,Paarpan sunnia oombura kootathoda padam pole Nee evalavu uyar saadhi nu kathunaalum ommale thondailaye erakkuvan di paappaan Loosu koodhigala,19,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,19
+sent_0331,Ha ha ha potta thanama padam edukathinga da,Ha ha ha potta thanama padam edukathinga da,8,na na na ta ta ta ta ta,8
+sent_0332,Appadi Ellam nadakaadh... Nadakka koodathu. THALA Love from kerala,Appadi Ellam nadakaadh Nadakka koodathu THALA Love from kerala,9,ta ta ta ta ta ta en en na,9
+sent_0333,Nerkonda paarvai vijay version parunka my chanale,Nerkonda paarvai vijay version parunka my chanale,7,ta ta ta en ta en na,7
+sent_0334,Ngk blockbuster nu solravanga like here,Ngk blockbuster nu solravanga like here,6,na en ta ta en en,6
+sent_0335,Good ! ana ena bro movie la soluvngaaa sola yenna erruku aavnga brave kandipa strong cm also super woman edhu Elam no doubt but ? Adhu podhumaa?,Good ana ena bro movie la soluvngaaa sola yenna erruku aavnga brave kandipa strong cm also super woman edhu Elam no doubt but Adhu podhumaa,25,en ta ta en en ta ta ta ta ta ta en ta en na en en en ta ta en en en ta ta,25
+sent_0336,ஆனா ஊனா அவன் அவன் அவனோட சாதி பெயர சொல்லி வாழ்த்துக்கள சொல்ல ஆரமிச்சிட்றான்..முதல்ல அத ஒழிங்க ல அப்றொம் எல்லாம் ஒழியும்..லூசு பயலுவ,ஆன ஊன அவன அவன அவனட சத பயர சலல வழததககள சலல ஆரமசசடறனமதலல அத ஒழஙக ல அபறம எலலம ஒழயமலச பயலவ,18,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,18
+sent_0337,kaada iruntha eduthapanenga poova irruntha pudingupenanga padipu mattum tan nambha kita irruntha eduthuka va mudiyathu,kaada iruntha eduthapanenga poova irruntha pudingupenanga padipu mattum tan nambha kita irruntha eduthuka va mudiyathu,15,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,15
+sent_0338,Comedy ya erukku ithukku billa pandi ok,Comedy ya erukku ithukku billa pandi ok,7,en ta ta ta ta ta en,7
+sent_0339,jayam ravi sir oda other getups paaka wait pandravanga like podunga !... comali 2 venum nu soldravanga,jayam ravi sir oda other getups paaka wait pandravanga like podunga comali 2 venum nu soldravanga,16,ta ta en ta en en ta en ta en ta ta na ta ta ta,16
+sent_0340,How many of u in 2k19 ......Hit like petta>viswasam,How many of u in 2k19 Hit like pettaviswasam,9,en en en en en na en en ta,9
+sent_0341,"Aiyoo, vara level bro Suriya anna rocks NgK on",Aiyoo vara level bro Suriya anna rocks NgK on,9,ta ta en en ta ta en na en,9
+sent_0342,Yaarellam 200 thadavaiku mela paatheenga... Infinite counts...,Yaarellam 200 thadavaiku mela paatheenga Infinite counts,7,ta na ta ta ta en en,7
+sent_0343,Kaithi-ku CONGRATULATIONS T-64 ku ALL THE BEST.,Kaithiku CONGRATULATIONS T64 ku ALL THE BEST,7,ta en na ta en en en,7
+sent_0344,Hollywood:Leonardo di caprio Bollywood:Amir Khan Kollywood:Vikram(The God father of di caprio and amir khan),HollywoodLeonardo di caprio BollywoodAmir Khan KollywoodVikramThe God father of di caprio and amir khan,14,na na na na na na en en en na na en na na,14
+sent_0345,Vaaa d va..... ..bigil oda......va.!..,Vaaa d va bigil odava,5,ta na ta ta ta,5
+sent_0346,Petta Thara Local & Vera Level Anirudh BGM MaranaMass,Petta Thara Local Vera Level Anirudh BGM MaranaMass,8,ta ta en ta en ta na ta,8
+sent_0347,Rocking teaser.. Varalavarla vaa varalava bairavaa...,Rocking teaser Varalavarla vaa varalava bairavaa,6,en en ta ta ta ta,6
+sent_0348,Kuruttu mundammmm veenapona dhandammmm uday oru like podunga,Kuruttu mundammmm veenapona dhandammmm uday oru like podunga,8,ta ta ta ta ta ta en ta,8
+sent_0349,"துன்பம் வரும்போது சிரிங்க என வள்ளுவர் தான் சொன்னாரு சிரிங்க, சிரிங்க! நான் சிரித்தால்!?",தனபம வரமபத சரஙக என வளளவர தன சனனர சரஙக சரஙக நன சரததல,11,ta ta ta ta ta ta ta ta ta ta ta,11
+sent_0350,Guys lets try to make it 500k likes,Guys lets try to make it 500k likes,8,en en en en en en na en,8
+sent_0351,Ohh Bhai Kiya zahar look hai bahencho from Kolkata,Ohh Bhai Kiya zahar look hai bahencho from Kolkata,9,en ta ta ta en ta ta en ta,9
+sent_0352,இப்படிப் படிச்ச பசங்க வேணாம் வேணாம்னு சொல்லி ஓடி ஓடி தான்யா நம்ம நாடு நாசமா போச்சு உண்மையான வசனம்.....,இபபடப படசச பசஙக வணம வணமன சலல ஓட ஓட தனய நமம நட நசம பசச உணமயன வசனம,15,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,15
+sent_0353,Unga trailer yellam nalladha irruku. Story (nalla) irrukuma ?,Unga trailer yellam nalladha irruku Story nalla irrukuma,8,ta en ta ta ta en ta ta,8
+sent_0354,Makkal Selvan fans our like podungo,Makkal Selvan fans our like podungo,6,ta ta en en en ta,6
+sent_0355,Ithu enga Pallathur la edutha padam,Ithu enga Pallathur la edutha padam,6,ta ta ta ta ta ta,6
+sent_0356,டைரக்டருக்கு நெஞ்சுரம் அதிகம்தான் விசி குரூப்பைதவிர மற்ற யாரும் தன் ஜாதி பெயரை சொல்ல தயங்கிய காலகட்டத்தில் தைரியமாக இந்த வேலையாகத்தான் திருமா குரூப் திரியுது என்று சொல்ல ரொம்ப தைரியம் வேண்டும் திமுக ஆட்சியில் இருந்திருந்தால் இந்த படத்திற்கு தடை போட்டிருக்கும் நம் முதல்வர் என்ன செய்யப்போகிறார் வரி விலக்கு கொடுத்து பெண்பிள்ளைகளை அழைத்துக்கொண்டு குடும்பத்தோடு பாரக்க வைக்க வேண்டும் எங்கள் அண்ணன் Hராஜா இருக்கிறார் எப்படியும் இந்த படத்தை கொண்டாடி ஓடவைத்துவிடுவார்,டரகடரகக நஞசரம அதகமதன வச கரபபதவர மறற யரம தன ஜத பயர சலல தயஙகய கலகடடததல தரயமக இநத வலயகததன தரம கரப தரயத எனற சலல ரமப தரயம வணடம தமக ஆடசயல இரநதரநதல இநத படததறக தட படடரககம நம மதலவர எனன சயயபபகறர வர வலகக கடதத பணபளளகள அழததககணட கடமபததட பரகக வகக வணடம எஙகள அணணன Hரஜ இரககறர எபபடயம இநத படதத கணடட ஓடவததவடவர,53,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta na ta ta ta ta ta ta,53
+sent_0357,"Vaiyusa achule,adete2 un pullengele nadike veiyinge sir..",Vaiyusa achuleadete2 un pullengele nadike veiyinge sir,7,ta na ta ta ta ta en,7
+sent_0358,Hey kuttymoonji unakenapa sk Anna movie la nadikira,Hey kuttymoonji unakenapa sk Anna movie la nadikira,8,en na ta na ta en ta ta,8
+sent_0359,"Ye jab se KGF aaya hai tab se ye log kuch bhi banate hai....NGK, PVK, CVK, BKC, BCHK....HAHAHH",Ye jab se KGF aaya hai tab se ye log kuch bhi banate haiNGK PVK CVK BKC BCHKHAHAHH,18,na na na na na na na na na na na na na na na na na na,18
+sent_0360,ஒரு தரப்பு வாதத்தை மட்டும் கேட்டுக் கொண்டிருந்த மக்கள் தற்போது மறு தரப்பு வாதத்தைத் கேட்கும் நேரம் வந்துவிட்டது.,ஒர தரபப வததத மடடம கடடக கணடரநத மககள தறபத மற தரபப வதததத கடகம நரம வநதவடடத,14,ta ta ta ta ta ta ta ta ta ta ta ta ta ta,14
+sent_0361,Last dialogue sema sema ( about rajini ),Last dialogue sema sema about rajini,6,en en ta ta en ta,6
+sent_0362,VFX Sari illa.. Black Gate kuda VFX potturukanga...,VFX Sari illa Black Gate kuda VFX potturukanga,8,na ta ta en en ta na ta,8
+sent_0363,kaappan illa ithu oppaaaaaaaaaaan..mokkaya graphics panni rukkanunga low budget la eduthrupaanungalo,kaappan illa ithu oppaaaaaaaaaaanmokkaya graphics panni rukkanunga low budget la eduthrupaanungalo,11,ta ta ta ta en ta ta en en ta ta,11
+sent_0364,views getting blocked hahaha thalaiva...trending ava podhu...,views getting blocked hahaha thalaivatrending ava podhu,7,en en en en ta ta ta,7
+sent_0365,After ayan Suriya back to form,After ayan Suriya back to form,6,en ta ta en en en,6
+sent_0366,mammokka hero da always will be a hero,mammokka hero da always will be a hero,8,ta en ta en en en en en,8
+sent_0367,Bangam.... First day first show pakkuren da....,Bangam First day first show pakkuren da,7,ta en en en en ta ta,7
+sent_0368,Asuran hit aaganumna enaku like podunga,Asuran hit aaganumna enaku like podunga,6,ta en ta ta en ta,6
+sent_0369,Arumai ya irukku vetri pera vazhththukkal by Thalapathy veriyan,Arumai ya irukku vetri pera vazhththukkal by Thalapathy veriyan,9,ta ta ta ta ta na en ta ta,9
+sent_0370,reminds me spider man version 1,reminds me spider man version 1,6,en en en en en na,6
+sent_0371,U're lie lie lieing Avara cntrl panunga plzzzz like cntrm pana mudyathu,Ure lie lie lieing Avara cntrl panunga plzzzz like cntrm pana mudyathu,12,na en en en ta na ta en en na ta ta,12
+sent_0372,Lastla ellam kannu kalanga vachutanga bro....Sema superr movie....veraa levell....kalacharatha maathra maari vara flimsa ellam thaandi....naanga irkomnu nikra intha maari flim irkaanalatha...manithaneyam mathavangluku theriyuthu,Lastla ellam kannu kalanga vachutanga broSema superr movieveraa levellkalacharatha maathra maari vara flimsa ellam thaandinaanga irkomnu nikra intha maari flim irkaanalathamanithaneyam mathavangluku theriyuthu,23,na ta ta ta ta na en na na ta ta ta ta ta ta ta ta ta ta en ta ta ta,23
+sent_0373,Enna da jayalalitha Ku vandha sodhana Makkaluku pudicha vedhana,Enna da jayalalitha Ku vandha sodhana Makkaluku pudicha vedhana,9,ta ta ta ta ta ta ta ta ta,9
+sent_0374,La la la la la la THALA,La la la la la la THALA,7,ta ta ta ta ta ta ta,7
+sent_0375,Romba naalaiku apuram Oru 'RAJINI' padam.,Romba naalaiku apuram Oru RAJINI padam,6,ta ta ta ta ta ta,6
+sent_0376,Dislikes mattum poda vantha nanbargaluku THALA sollum mass dialouge at 2.05min..,Dislikes mattum poda vantha nanbargaluku THALA sollum mass dialouge at 205min,11,en ta ta ta ta ta ta ta en en na,11
+sent_0377,Thalaivanuku naattu mela paithiyam .... Namba aatchi varuthula thambi varum thalaiva dialogue onnu onnum verithanama iruku thalaiva movie tharamana sambavama irukum kaathiruppom,Thalaivanuku naattu mela paithiyam Namba aatchi varuthula thambi varum thalaiva dialogue onnu onnum verithanama iruku thalaiva movie tharamana sambavama irukum kaathiruppom,21,ta ta ta ta ta ta ta ta ta ta en ta ta ta ta ta en ta ta ta ta,21
+sent_0378,பள்ளி மற்றும் கல்லூரி பெண்கள் பிள்ளைகள் கட்டாயம் பார்க்க வேண்டிய படம்...தமிழ்நாட்டில் இந்த படத்தை ஒன்பது ரூபாய் நோட்டு படம் போல (விழிப்புணர்வுக்காக) திரையிட்டால் நல்லது...,பளள மறறம கலலர பணகள பளளகள கடடயம பரகக வணடய படமதமழநடடல இநத படதத ஒனபத ரபய நடட படம பல வழபபணரவககக தரயடடல நலலத,19,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,19
+sent_0379,Best in best in all trailers,Best in best in all trailers,6,en en en en en en,6
+sent_0380,Yuvan bgm matum than mass ah iruku. Trailer worth illa,Yuvan bgm matum than mass ah iruku Trailer worth illa,10,ta na ta ta ta ta ta en en ta,10
+sent_0381,haath to face se bhi bade kar diye!,haath to face se bhi bade kar diye,8,na en en na na na na na,8
+sent_0382,Beethoven music copy panna ilayaraja avar sonna mathiri aanmai ilathavoro.,Beethoven music copy panna ilayaraja avar sonna mathiri aanmai ilathavoro,10,en en en ta ta ta ta ta ta ta,10
+sent_0383,"இப்படம் வெற்றி பெற வாழ்த்துக்ள் ,நாங்க படம் எடுத்தா ஜாதி வெறி ...,அதே நீங்க எடுத்தா அது என்னா kk ........",இபபடம வறற பற வழததகள நஙக படம எடதத ஜத வற அத நஙக எடதத அத எனன kk,15,ta ta ta ta ta ta ta ta ta ta ta ta ta ta na,15
+sent_0384,Ajit u are not made for remake,Ajit u are not made for remake,7,na en en en en en en,7
+sent_0385,அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை அருமை,அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம அரம,34,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,34
+sent_0386,அரசியல் padam ந அது சர்கார் படம்தான் அரசியல் வாதி ga. மக்களை epdila முட்டால் laga yamathitu irukkanuga னு sarkar படத்துல தெள்ள தெளிவா kattirupanga sarkar movie ல வர Mathiri tha. ipo namma naadtoda nilama,அரசயல padam ந அத சரகர படமதன அரசயல வத ga மககள epdila மடடல laga yamathitu irukkanuga ன sarkar படததல தளள தளவ kattirupanga sarkar movie ல வர Mathiri tha ipo namma naadtoda nilama,31,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta en ta ta ta ta ta ta ta ta,31
+sent_0387,All the best shankar sir& rajini garu ...From andhra powerstar pavan kalyan fans,All the best shankar sir rajini garu From andhra powerstar pavan kalyan fans,13,en en en ta en ta ta en ta en ta ta en,13
+sent_0388,Hero will be a blockbuster for sk anna,Hero will be a blockbuster for sk anna,8,en en en en en en na ta,8
+sent_0389,சாதி படம் இல்லாமல் இருந்தால் தமிழ் சினிமா நல்லா இருக்கும்,சத படம இலலமல இரநதல தமழ சனம நலல இரககம,8,ta ta ta ta ta ta ta ta,8
+sent_0390,Pink movie ki copy hai .....,Pink movie ki copy hai,5,en en ta en ta,5
+sent_0391,Mersale aa scene kandal arrayalum chrichupokum,Mersale aa scene kandal arrayalum chrichupokum,6,na na en ta ta ta,6
+sent_0392,Rajinikanth ishtam vj sethupathi ishtam nawas villianum ishtam,Rajinikanth ishtam vj sethupathi ishtam nawas villianum ishtam,8,ta ta na ta ta ta ta ta,8
+sent_0393,Enaku kabaali trailer pakra madhiriye iruku,Enaku kabaali trailer pakra madhiriye iruku,6,ta ta en ta ta ta,6
+sent_0394,ரஜினி பார்த்தால் இந்த நியூஸ் லா சொன்ன மதிரி ஒரு நிமிசம் தலை சுத்தி போச்சுன்னு நினைப்பார்,ரஜன பரததல இநத நயஸ ல சனன மதர ஒர நமசம தல சதத பசசனன நனபபர,13,ta ta ta ta ta ta ta ta ta ta ta ta ta,13
+sent_0395,692 k likes reached aairuku,692 k likes reached aairuku,5,na na en en ta,5
+sent_0396,நான் அரசியலுக்கு வருவது உறுதி .... ஏ இது 96 யார ஏமாத்துறீங்க.... ?,நன அரசயலகக வரவத உறத ஏ இத 96 யர ஏமததறஙக,9,ta ta ta ta ta ta ta ta ta,9
+sent_0397,மிக பெரிய வரலாற்று வெற்றி படமாக அமைய வாழ்த்துக்கள்,மக பரய வரலறற வறற படமக அமய வழததககள,7,ta ta ta ta ta ta ta,7
+sent_0398,Elizabeth theme aah yedhuku idhuku potinga,Elizabeth theme aah yedhuku idhuku potinga,6,en en ta ta ta ta,6
+sent_0399,"past,present,future of selvaragavan flim making rockzzz....",pastpresentfuture of selvaragavan flim making rockzzz,6,en en ta en en en,6
+sent_0400,Bgm theme music gousebomes awesome last la kani sasi vera level marana waiting,Bgm theme music gousebomes awesome last la kani sasi vera level marana waiting,13,na en en en en en ta ta ta ta en ta en,13
+sent_0401,உங்கள தவிர தமிழ்நாட்டில் இந்த மாதிரி நடிக்கிறதுக்கு வேற யாரும் இல்ல சார் ஜெயம் ரவி சார் சூப்பர் சார்,உஙகள தவர தமழநடடல இநத மதர நடககறதகக வற யரம இலல சர ஜயம ரவ சர சபபர சர,15,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,15
+sent_0402,Penmaye..! Entha soolnilayilum parai pandrigalai nambi sendru Vida vendam..!,Penmaye Entha soolnilayilum parai pandrigalai nambi sendru Vida vendam,9,ta ta ta ta ta ta ta ta ta,9
+sent_0403,முதலில் இளையராஜா பெயர் அதற்கு பிறகு மிஷ்கின் பெயர்....,மதலல இளயரஜ பயர அதறக பறக மஷகன பயர,7,ta ta ta ta ta ta ta,7
+sent_0404,Omg 4days aguthu no 1 trending,Omg 4days aguthu no 1 trending,6,en na ta en na en,6
+sent_0405,Ena pa ithu என் peru varuthu apo ரொம்ப different a irukum nu Ninaaikra,Ena pa ithu என peru varuthu apo ரமப different a irukum nu Ninaaikra,13,ta ta ta ta ta ta ta ta en en ta ta ta,13
+sent_0406,Surya anna semmaya irukki poodu #surya,Surya anna semmaya irukki poodu surya,6,ta ta ta ta ta ta,6
+sent_0407,நான் முத்தரையர்( அம்பலம்... அம்பலகாரர்.... சேர்வை..... முத்துராஜா...வலையர்.. ).... இந்த படம் எடுத்த டைரக்டர் கோடி நன்றிகள்.....,நன மததரயர அமபலம அமபலகரர சரவ மததரஜவலயர இநத படம எடதத டரகடர கட நனறகள,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0408,Indha naadum nattu makkalum naasamai pogattum,Indha naadum nattu makkalum naasamai pogattum,6,ta ta ta ta ta ta,6
+sent_0409,I watch 156 time pangal Ila petta pangal,I watch 156 time pangal Ila petta pangal,8,en en na en ta ta ta ta,8
+sent_0410,Ultimate....vera level...... Dhanush sir hats off sir...unga nadippuku vera level....ellarum paaka vendiya padam,Ultimatevera level Dhanush sir hats off sirunga nadippuku vera levelellarum paaka vendiya padam,13,na en ta en en en ta ta ta na ta ta ta,13
+sent_0411,Intha trailer ahh pathutu Kekaa bekka short film ahhh theda ponavangha yaaru,Intha trailer ahh pathutu Kekaa bekka short film ahhh theda ponavangha yaaru,12,ta en ta ta ta ta en en ta ta ta ta,12
+sent_0412,Silaiyai udaikalam sinthanayaium sithanthayum azhika mudiyathu power full dialogue,Silaiyai udaikalam sinthanayaium sithanthayum azhika mudiyathu power full dialogue,9,ta ta ta ta ta ta en en en,9
+sent_0413,Ommala verha level last dialogue,Ommala verha level last dialogue,5,ta ta en en en,5
+sent_0414,17 Million views kaga wait panravanga like pannunga,17 Million views kaga wait panravanga like pannunga,8,na en en ta en ta en ta,8
+sent_0415,thalaivar Veri thanam nu soldravanga like panunga,thalaivar Veri thanam nu soldravanga like panunga,7,ta ta ta ta ta en ta,7
+sent_0416,Vjs karupan village getup next sangathamizhan block buster,Vjs karupan village getup next sangathamizhan block buster,8,na ta en en en na en en,8
+sent_0417,உலக சாதனையை உடைத்து எறிந்து தல ரசிகர்கள் என்று மார்தட்டுவோம்.,உலக சதனய உடதத எறநத தல ரசகரகள எனற மரதடடவம,8,ta ta ta ta ta ta ta ta,8
+sent_0418,Indha movie ka ka po short flim la irrundhu full kadhaya suttu teenga,Indha movie ka ka po short flim la irrundhu full kadhaya suttu teenga,13,ta en ta ta ta en en ta ta en ta ta ta,13
+sent_0419,karthi enna kidu look aanu.poli mass padamanu.narenum thakarthu,karthi enna kidu look aanupoli mass padamanunarenum thakarthu,8,ta ta ta en ta ta ta ta,8
+sent_0420,வந்தா ராஜாவா வருவேன் ராஜாக்கு நூறு தோஸ்து,வநத ரஜவ வரவன ரஜகக நற தஸத,6,ta ta ta ta ta ta,6
+sent_0421,Marana waiting for nkp fdfs ku,Marana waiting for nkp fdfs ku,6,ta en en na na ta,6
+sent_0422,endha padam release agala anaa kandipa hit,endha padam release agala anaa kandipa hit,7,ta ta en ta ta ta en,7
+sent_0423,Entha oru miga periya visiyama irunthalum Athu aani verula inthu aarambikkanum,Entha oru miga periya visiyama irunthalum Athu aani verula inthu aarambikkanum,11,ta ta ta ta ta ta ta ta ta ta ta,11
+sent_0424,Thalaivaaaaaaaaaaaaaaaaaaaaaaaaaaa mavane kollama vida maaten,Thalaivaaaaaaaaaaaaaaaaaaaaaaaaaaa mavane kollama vida maaten,5,ta ta ta ta ta,5
+sent_0425,Thalaivar mass ah paththi theriyadhavanga yaarumey illa,Thalaivar mass ah paththi theriyadhavanga yaarumey illa,7,ta ta ta ta ta ta ta,7
+sent_0426,அல்லு சில்லு எல்லாம் ஒதுங்குடா அக்னி தாய் வருகிறாள்..!,அலல சலல எலலம ஒதஙகட அகன தய வரகறள,7,ta ta ta ta ta ta ta,7
+sent_0427,Padam. Kandippa hit u tan... Vera level try na... Jayam ravi anna all the best.. Ithae Madri.. Ini Super ana Flims a neenga engalluku taranum.... Vera level goosebumps a irunthuchu trailer.. Mass na... Yogi babu anna my fav.. Avarum superrr....,Padam Kandippa hit u tan Vera level try na Jayam ravi anna all the best Ithae Madri Ini Super ana Flims a neenga engalluku taranum Vera level goosebumps a irunthuchu trailer Mass na Yogi babu anna my fav Avarum superrr,40,ta ta en en ta ta en en ta ta ta ta en en en ta ta ta en ta en en ta ta ta ta en en en ta en ta ta ta ta ta en en ta en,40
+sent_0428,Congratulations Draupathi Team. திரௌபதி வெற்றி பெற வாழ்த்துக்கள்.,Congratulations Draupathi Team தரபத வறற பற வழததககள,7,en ta en ta ta ta ta,7
+sent_0429,wowwww! 9.8 m I am waiting for 10 m views varala varala va varla vaaa !,wowwww 98 m I am waiting for 10 m views varala varala va varla vaaa,15,en na na en en en en na na en ta ta ta ta ta,15
+sent_0430,Yenda ipadi padam eduthu jayalalitha va marupadi kolringa,Yenda ipadi padam eduthu jayalalitha va marupadi kolringa,8,ta ta ta ta ta ta ta ta,8
+sent_0431,கொங்கு நாடு மக்கள் தேசிய கட்சி சார்பாக வெற்றி பெற வாழ்த்துக்கள்,கஙக நட மககள தசய கடச சரபக வறற பற வழததககள,9,ta ta ta ta ta ta ta ta ta,9
+sent_0432,இப்ப ஜாதிய வளர்க சினிமா மட்டும் போதும்,இபப ஜதய வளரக சனம மடடம பதம,6,ta ta ta ta ta ta,6
+sent_0433,"Movie 2nd time pathen semya iruku kalakitinga, karthi, lokesh, sam CS verithanam",Movie 2nd time pathen semya iruku kalakitinga karthi lokesh sam CS verithanam,12,en na en ta ta ta ta ta ta ta na ta,12
+sent_0434,Enaku ennamo NTK NTK nu ketkuthu. Athuvum avanunku intha naattu mela thaan paithyamnu solrathu seeman ah sonna mathiri thaan iruku. All the best team,Enaku ennamo NTK NTK nu ketkuthu Athuvum avanunku intha naattu mela thaan paithyamnu solrathu seeman ah sonna mathiri thaan iruku All the best team,24,ta ta na na ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta en en en en,24
+sent_0435,Thalaiver padam vetri adaiya thalaiyin rasikarkalin vaalthukkal,Thalaiver padam vetri adaiya thalaiyin rasikarkalin vaalthukkal,7,ta ta ta ta ta ta ta,7
+sent_0436,"Psyco 1960 Hollywood la vandhuruku. Andha moviya remake pannitananunga Pola,",Psyco 1960 Hollywood la vandhuruku Andha moviya remake pannitananunga Pola,10,en na en ta ta ta ta en ta ta,10
+sent_0437,90's kids gift movie m jayam ravi ultimate,90s kids gift movie m jayam ravi ultimate,8,na en en en na ta ta en,8
+sent_0438,Ever shankar sir.... great film maker...,Ever shankar sir great film maker,6,en ta en en en en,6
+sent_0439,Petta parak rajinians mattum ulla iru mathavanlam odi poidu vantha thangamatta,Petta parak rajinians mattum ulla iru mathavanlam odi poidu vantha thangamatta,11,ta ta ta at ta ta ta ta ta ta ta,11
+sent_0440,Last dialogue ellarum kettingala trailer ah full ah parunga semma dialogue,Last dialogue ellarum kettingala trailer ah full ah parunga semma dialogue,11,en en ta ta en ta en ta ta ta en,11
+sent_0441,Kathi x Nerkonda Parvai mix,Kathi x Nerkonda Parvai mix,5,ta na ta ta en,5
+sent_0442,2:00 yehh idhu 96 yara yemathuringa jayam ravi acting super,200 yehh idhu 96 yara yemathuringa jayam ravi acting super,10,na na ta na ta ta ta ta en en,10
+sent_0443,ALL BOYS BAAHUBALI TRAILER RECORD VIEWS= 8 CRORE LIKES= 7 LAKS SO 2 DAYS BEAT PANNA LIKE PANNU GIVEUP,ALL BOYS BAAHUBALI TRAILER RECORD VIEWS 8 CRORE LIKES 7 LAKS SO 2 DAYS BEAT PANNA LIKE PANNU GIVEUP,19,en en ta en en en na na en na na en na en en ta en ta en,19
+sent_0444,"Ivvalavu nallh trailer ah um dislike panringalae,yaru paatha veliya irukku",Ivvalavu nallh trailer ah um dislike panringalaeyaru paatha veliya irukku,10,ta ta en ta ta en ta ta ta ta,10
+sent_0445,Amma I'm a big fan of Amma(Jay Lalita mam),Amma Im a big fan of AmmaJay Lalita mam,9,ta en en en en en ta ta ta,9
+sent_0446,0:46 pubg fans hit likes,046 pubg fans hit likes,5,na na en en en,5
+sent_0447,Kadisila teejay vumah gv music vera level pa,Kadisila teejay vumah gv music vera level pa,8,ta ta ta na en ta en ta,8
+sent_0448,Surya sir cult from telugu,Surya sir cult from telugu,5,ta en en en na,5
+sent_0449,வரும்ம்.......... பார். வந்துட்டாரு சூர்யா அண்ணா தீயா இருக்கு . முதல் நாள் முதல் காட்சிக்கு நான் இப்போவே தயார்,வரமம பர வநதடடர சரய அணண தய இரகக மதல நள மதல கடசகக நன இபபவ தயர,14,ta ta ta ta ta ta ta ta ta ta ta ta ta ta,14
+sent_0450,Jinko Tamil Kuche Bhi Nahi Samja O Thodo Like......,Jinko Tamil Kuche Bhi Nahi Samja O Thodo Like,9,na na na na na na na na en,9
+sent_0451,Love you rajinikanth sir super star,Love you rajinikanth sir super star,6,en en ta en en en,6
+sent_0452,Myskin bhai kya bhai Intha mathiri pannitingale,Myskin bhai kya bhai Intha mathiri pannitingale,7,na na na na na na na,7
+sent_0453,Suriya luv u anna Annan uyir,Suriya luv u anna Annan uyir,6,ta en en ta ta ta,6
+sent_0454,Akshara Hasan... Acting is not ur thing.. SERIOUSLY!,Akshara Hasan Acting is not ur thing SERIOUSLY,8,ta ta en en en en en en,8
+sent_0455,1:20 Vijay refer pandra maathiri iruke .,120 Vijay refer pandra maathiri iruke,6,na ta en ta ta ta,6
+sent_0456,tamilnatla unoda papu vegadhu d.. edhu thala thalapathy oda kota da!,tamilnatla unoda papu vegadhu d edhu thala thalapathy oda kota da,11,ta ta ta ta na ta ta ta ta ta ta,11
+sent_0457,luv u ರಜನಿ... luv from Karnataka,luv u ರಜನ luv from Karnataka,6,en en ta en en ta,6
+sent_0458,Ippadi neraya neraya neraya time paapen... Thala,Ippadi neraya neraya neraya time paapen Thala,7,ta ta ta ta en ta ta,7
+sent_0459,"மண்ணு, பொண்ணு ரெண்டுமே ஒன்னு அதுல எவன் கைய வச்சாலும் வெட்டுவோம் #திரெளபதி",மணண பணண ரணடம ஒனன அதல எவன கய வசசலம வடடவம தரளபத,10,ta ta ta ta ta ta ta ta ta ta,10
+sent_0460,Yarathu irrukigala ? Itha trending 1 listla irrunthu seekeram eduga romba nala trending 1'le irruku pa,Yarathu irrukigala Itha trending 1 listla irrunthu seekeram eduga romba nala trending 1le irruku pa,15,ta ta ta en na ta ta ta ta ta ta en na ta ta,15
+sent_0461,Apo pongalukku black shirt & vesti vaangida vendiyadhu dhan. Summa pongala Mass pannrom,Apo pongalukku black shirt vesti vaangida vendiyadhu dhan Summa pongala Mass pannrom,12,ta ta en en en ta ta ta ta ta ta ta,12
+sent_0462,singam vetta aarambichu da...mass,singam vetta aarambichu damass,4,ta ta ta ta,4
+sent_0463,பொண்ணுக்கு புடிச்சிருந்த அவங்க யார வேணும்னாலும் கல்யாணம் பண்ணுங்க நீங்க யார நீங்க என்னா பொண்ணுங்களோட ஆறாவது அறிவா அவங்களுக்கு சுயமா முடிவெடுக்க தெரியாது,பணணகக படசசரநத அவஙக யர வணமனலம கலயணம பணணஙக நஙக யர நஙக எனன பணணஙகளட ஆறவத அறவ அவஙகளகக சயம மடவடகக தரயத,18,ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta ta,18
+sent_0464,indha bgm ah mattum ena pundaikku copy adichan indha ilayaraja .. oru vela aanama poirucho,indha bgm ah mattum ena pundaikku copy adichan indha ilayaraja oru vela aanama poirucho,14,ta na ta ta ta ta en ta ta ta ta ta at ta,14
+sent_0465,இந்த படத்தை தயவு செய்து பார்க்க வேண்டாம். ஜெயம்ரவி உண்மையில் கோமாளி. அவன் வாகனவிபத்தில் கோமா நிலைமைக்கு போகனும்.,இநத படதத தயவ சயத பரகக வணடம ஜயமரவ உணமயல கமள அவன வகனவபததல கம நலமகக பகனம,14,ta ta ta ta ta ta ta ta ta ta ta ta ta ta,14
+sent_0466,ஏய் இது 96 ... யார ஏமாத்துற?,ஏய இத 96 யர ஏமததற,5,ta ta na ta ta,5
+sent_0467,Dear Thala veriyarzhal.... Vivegam movie super nu solluravanga...... Like post pannuga.....,Dear Thala veriyarzhal Vivegam movie super nu solluravanga Like post pannuga,11,en ta ta ta en en ta ta en en ta,11
+sent_0468,OMG awesome vikram speak in Malaysian language,OMG awesome vikram speak in Malaysian language,7,en en ta en en na en,7
+sent_0469,PETTA trailer SUPER Rajnikanth Garu style we want Telugu release on January 10 Rajnikanth STYLE ADURS pakka MASS,PETTA trailer SUPER Rajnikanth Garu style we want Telugu release on January 10 Rajnikanth STYLE ADURS pakka MASS,18,ta en en ta ta en en en na en en en na ta en ta ta ta,18
+sent_0470,Vellore mavattam vanniya kula ksa3n movie vattri para vayuthukal,Vellore mavattam vanniya kula ksa3n movie vattri para vayuthukal,9,ta ta ta ta na en ta ta ta,9
+sent_0471,கொய்யால எங்க தலைவரையும் கிண்டல் பன்னி இருக்கிங்களா...... ஆனா நல்லா தான் இருக்கு,கயயல எஙக தலவரயம கணடல பனன இரககஙகள ஆன நலல தன இரகக,10,ta ta ta ta ta ta ta ta ta ta,10
+sent_0472,Indha cinemaavukkaaha sollala sinna paya makkaa.. SINDHIYUNGAL Andha oruvandhaanda Seeman...adha payan padithikka solraangha puriyudhaa....thamizha?,Indha cinemaavukkaaha sollala sinna paya makkaa SINDHIYUNGAL Andha oruvandhaanda Seemanadha payan padithikka solraangha puriyudhaathamizha,14,ta ta ta ta ta ta ta ta ta ta ta ta ta ta,14
+sent_0473,"Trailer VErha Levalllllllllllllllllllllllllllllllllllll... yevlo TIMES pathalum ,New pakura mathiri iruku...",Trailer VErha Levalllllllllllllllllllllllllllllllllllll yevlo TIMES pathalum New pakura mathiri iruku,10,en ta en ta en ta en ta ta ta,10
+sent_0474,Ilaya super star dhanush sir maari mudiyuma,Ilaya super star dhanush sir maari mudiyuma,7,ta en en ta en ta ta,7
+sent_0475,இந்த டிரைலை ஒரு தடவைக்கு மேல பார்த்தவங்க லைக் போடுங்க,இநத டரல ஒர தடவகக மல பரததவஙக லக படஙக,8,ta ta ta ta ta ta ta ta,8
+sent_0476,Mass trailer Makkal selvan fans hit likes..,Mass trailer Makkal selvan fans hit likes,7,ta en ta ta en en en,7
+sent_0477,Mass teaser bgm vera level,Mass teaser bgm vera level,5,ta en na ta en,5
+sent_0478,யுவராஜ் கவுண்டர் பேரவை வேளாளர் ம வெள்ளாளர் சமுதாயத்தின் உணர்வு,யவரஜ கவணடர பரவ வளளர ம வளளளர சமதயததன உணரவ,8,ta ta ta ta ta ta ta ta,8
+sent_0479,yara yara Ivan ourai keta theriyum . Ivan yaru endu ivannuke teriyada,yara yara Ivan ourai keta theriyum Ivan yaru endu ivannuke teriyada,11,ta ta na ta ta ta na ta ta ta ta,11
+sent_0480,Andha 1:55 min la varra dialogue uhh dislike pandra anils kku correctahh porundhudhu,Andha 155 min la varra dialogue uhh dislike pandra anils kku correctahh porundhudhu,13,ta na en ta ta en ta en ta ta ta na ta,13
+sent_0481,மாபெரும் வெற்றி படமாக (பாடமாக) அமையும் வாழ்த்துகள் அண்ணா.,மபரம வறற படமக படமக அமயம வழததகள அணண,7,ta ta ta ta ta ta ta,7
+sent_0482,Ella thappichu odungada... ithu unmailaye psycho padam thaan da...,Ella thappichu odungada ithu unmailaye psycho padam thaan da,9,ta ta ta ta ta en ta ta ta,9
+sent_0483,Neerkonda paarvai flop aaga poothu..koomali hit aaga poothu,Neerkonda paarvai flop aaga poothukoomali hit aaga poothu,8,ta ta en ta ta en ta ta,8
+sent_0484,வெற்றி பெறவாழ்த்துக்கள் ... நம் வன்னிய மக்கள் ஆதரவுடன்,வறற பறவழததககள நம வனனய மககள ஆதரவடன,6,ta ta ta ta ta ta,6
+sent_0485,Extrdinary illayaraja sir and marvelous maker miskin,Extrdinary illayaraja sir and marvelous maker miskin,7,en ta en en en en ta,7
+sent_0486,Style na it's super star no one else,Style na its super star no one else,8,en ta en en en en en en,8
+sent_0487,அப்படியே பொள்ளாச்சி ல பல பெண்கள நாசம் பண்ண உயர் சாதிய கொஞ்சம் காட்டுங்கடா வெண்ணைங்களா,அபபடய பளளசச ல பல பணகள நசம பணண உயர சதய கஞசம கடடஙகட வணணஙகள,12,ta ta ta ta ta ta ta ta ta ta ta ta,12
+sent_0488,Mohan. g s Real darbar!,Mohan g s Real darbar,5,ta na na en ta,5
+sent_0489,vera level thala nee vaa thala 24 kaaga thaan naangllam kaathirukom 24 annaki ready to rage,vera level thala nee vaa thala 24 kaaga thaan naangllam kaathirukom 24 annaki ready to rage,16,ta en ta ta ta ta na ta ta ta ta na ta en en en,16
+sent_0490,kathikite irukan... nthng new.. same as s1 nd s2,kathikite irukan nthng new same as s1 nd s2,9,ta ta en en en en na na na,9
+sent_0491,elarum theri trailer pathach thana sura padam putto katatuma,elarum theri trailer pathach thana sura padam putto katatuma,9,ta ta en ta ta ta ta ta ta,9
+sent_0492,Enna gethu enna style super thala da,Enna gethu enna style super thala da,7,ta ta ta en en ta ta,7
+sent_0493,In the Talab polygon Dabang Nagar Pune,In the Talab polygon Dabang Nagar Pune,7,en en na en ta ta ta,7
+sent_0494,Othaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa Vera Level back to the form Thala....,Othaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa Vera Level back to the form Thala,8,ta ta en en en en en ta,8
+sent_0495,thalaiva unnkala screen la paathu 1 year aachu intha year mass kaaturom vera level teaser,thalaiva unnkala screen la paathu 1 year aachu intha year mass kaaturom vera level teaser,15,ta ta en ta ta na en ta ta en ta ta ta en en,15
+sent_0496,"Iam in kerala..... must waiting .... Suriya, lalettan",Iam in kerala must waiting Suriya lalettan,7,en en na en en ta ta,7
+sent_0497,Ithula dislike panna enna iruku ?,Ithula dislike panna enna iruku,5,ta en ta ta ta,5
+sent_0498,asusual tata sumo and running camera,asusual tata sumo and running camera,6,en ta ta en en en,6
+sent_0499,Tamil nhi samjh aayi but Akshay tere liye kuch bhi....,Tamil nhi samjh aayi but Akshay tere liye kuch bhi,10,na na na na en ta na na na na,10
+sent_0500,I am a thala fan but please stop abusing thalapathy fans.....true thalapathy fans apidi abuse panamatanga apidi panna avanga thalapathy fans illa......abuse panra maathri comment panravangala kandukama vitrunga one request,I am a thala fan but please stop abusing thalapathy fanstrue thalapathy fans apidi abuse panamatanga apidi panna avanga thalapathy fans illaabuse panra maathri comment panravangala kandukama vitrunga one request,30,en en en ta en en en en en ta en ta en ta en ta ta ta ta ta en na ta ta en ta ta ta en en,30

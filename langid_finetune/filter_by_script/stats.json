@@ -1,0 +1,21 @@
+{
+  "total_sentences": 44020,
+  "romanized_only": 35650,
+  "contains_tamil_script": 8370,
+  "romanized_percentage": 80.99,
+  "tamil_script_percentage": 19.01,
+  "romanized_sentiment_distribution": {
+    "Negative": 4479,
+    "Positive": 19871,
+    "Mixed_feelings": 3855,
+    "not-Tamil": 2079,
+    "unknown_state": 5366
+  },
+  "tamil_script_sentiment_distribution": {
+    "Positive": 5002,
+    "Negative": 749,
+    "Mixed_feelings": 1073,
+    "unknown_state": 1538,
+    "not-Tamil": 8
+  }
+}
