@@ -13,13 +13,17 @@ geometry: margin=1in
 
 # 1. INTRODUCTION
 
-This project investigates the relationship between sentiment and language choice in code-switched English-Tamil text from YouTube comments. We hypothesize that sentiment predicts both the proportion of English used and the frequency of language switches within utterances.
+This project investigates the relationship between sentiment and language choice in code-switched English-Tamil online text. We hypothesize that sentiment predicts both the proportion of English used and the frequency of language switches within utterances.
 
 **Research Questions:**
 1. Does sentiment category predict the proportion of English vs. Tamil in code-switched utterances?
 2. Does sentiment category predict the frequency of language switches within utterances?
 
-**Hypothesis:** Mixed_feelings utterances will show lower English proportions than Positive or Negative utterances, reflecting English's role as a prestige/academic language versus Tamil's role as an emotional/home language.
+**Null Hypothesis 1:** There is no relationship between sentiment and language choice in code-switched utterances.
+**Alternative Hypothesis 1:** Mixed_feelings utterances will show higher English proportions than Positive or Negative utterances, reflecting English's role as a prestige/academic language versus Tamil's role as an emotional/home language in India.
+
+**Null Hypothesis 2:** There is no relationship between sentiment and frequency of switching language.
+**Alternative Hypothesis 2:** Positive sentiment predicts higher frequency switching, when controlling for the effect of utterance length.
 
 # 2. DATA IMPORT AND PREPARATION
 
@@ -29,7 +33,7 @@ library(broom)
 library(car)
 
 # Import data
-cs_data <- read.csv("codeswitching_data.csv", stringsAsFactors = FALSE)
+cs_data <- read.csv("entacs_data_complete.csv", stringsAsFactors = FALSE)
 
 # Convert sentiment to factor with Positive as reference level
 cs_data$sentiment <- factor(cs_data$sentiment, 
@@ -38,6 +42,7 @@ cs_data$sentiment <- factor(cs_data$sentiment,
 # Check structure
 str(cs_data)
 summary(cs_data)
+head(cs_data)
 ```
 
 ## 2.1 Data Overview
