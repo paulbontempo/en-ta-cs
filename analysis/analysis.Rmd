@@ -1,0 +1,314 @@
+---
+title: "Analyzing the Relationship between Sentiment and Language in English-Tamil Code-Switching"
+author: "Paul Bontempo"
+date: "`12/1/2025"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+  word_document: default
+fontsize: 11pt
+geometry: margin=1in
+---
+
+# 1. INTRODUCTION
+
+This project investigates the relationship between sentiment and language choice in code-switched English-Tamil text from YouTube comments. We hypothesize that sentiment predicts both the proportion of English used and the frequency of language switches within utterances.
+
+**Research Questions:**
+1. Does sentiment category predict the proportion of English vs. Tamil in code-switched utterances?
+2. Does sentiment category predict the frequency of language switches within utterances?
+
+**Hypothesis:** Mixed_feelings utterances will show lower English proportions than Positive or Negative utterances, reflecting English's role as a prestige/academic language versus Tamil's role as an emotional/home language.
+
+# 2. DATA IMPORT AND PREPARATION
+
+```{r setup, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(broom)
+library(car)
+
+# Import data
+cs_data <- read.csv("codeswitching_data.csv", stringsAsFactors = FALSE)
+
+# Convert sentiment to factor with Positive as reference level
+cs_data$sentiment <- factor(cs_data$sentiment, 
+                            levels = c("Positive", "Mixed_feelings", "Negative", "unknown"))
+
+# Check structure
+str(cs_data)
+summary(cs_data)
+```
+
+## 2.1 Data Overview
+
+```{r data_overview}
+# Sentiment distribution
+table(cs_data$sentiment)
+
+# Overall proportions
+cat("Overall NA proportion:", mean(cs_data$na_proportion), "\n")
+cat("Overall English proportion:", mean(cs_data$en_proportion), "\n")
+cat("Overall Tamil proportion:", mean(cs_data$ta_proportion), "\n")
+cat("Overall switches per sentence:", mean(cs_data$num_switches), "\n")
+```
+
+## 2.2 Filter to Main Sentiment Categories
+
+Focus on the three clear sentiment categories for primary analysis:
+
+```{r filter_main}
+# Create filtered dataset for main analysis
+cs_main <- cs_data %>%
+  filter(sentiment %in% c("Positive", "Mixed_feelings", "Negative"))
+
+# Re-level factor to drop unused level
+cs_main$sentiment <- droplevels(cs_main$sentiment)
+
+# Summary of filtered data
+cat("Sentences in main analysis:", nrow(cs_main), "\n")
+table(cs_main$sentiment)
+```
+
+# 3. EXPLORATORY DATA ANALYSIS
+
+## 3.1 Distribution of English Proportion
+
+```{r hist_en_prop, fig.width=8, fig.height=5}
+ggplot(cs_main, aes(x = en_proportion)) +
+  geom_histogram(binwidth = 0.05, fill = "steelblue", color = "black") +
+  facet_wrap(~sentiment) +
+  labs(title = "Distribution of English Proportion by Sentiment",
+       x = "English Proportion", y = "Count") +
+  theme_minimal()
+```
+
+## 3.2 English Proportion by Sentiment
+
+```{r boxplot_en_prop, fig.width=8, fig.height=5}
+ggplot(cs_main, aes(x = sentiment, y = en_proportion, fill = sentiment)) +
+  geom_boxplot() +
+  stat_summary(fun = mean, geom = "point", shape = 23, size = 3, fill = "white") +
+  labs(title = "English Proportion by Sentiment",
+       x = "Sentiment", y = "English Proportion") +
+  theme_minimal() +
+  theme(legend.position = "none")
+
+# Summary statistics
+cs_main %>%
+  group_by(sentiment) %>%
+  summarise(
+    n = n(),
+    mean_en = mean(en_proportion),
+    sd_en = sd(en_proportion),
+    median_en = median(en_proportion)
+  )
+```
+
+## 3.3 Number of Switches by Sentiment
+
+```{r boxplot_switches, fig.width=8, fig.height=5}
+ggplot(cs_main, aes(x = sentiment, y = num_switches, fill = sentiment)) +
+  geom_boxplot() +
+  stat_summary(fun = mean, geom = "point", shape = 23, size = 3, fill = "white") +
+  labs(title = "Language Switches per Sentence by Sentiment",
+       x = "Sentiment", y = "Number of Switches") +
+  theme_minimal() +
+  theme(legend.position = "none")
+
+# Summary statistics
+cs_main %>%
+  group_by(sentiment) %>%
+  summarise(
+    n = n(),
+    mean_switches = mean(num_switches),
+    sd_switches = sd(num_switches),
+    median_switches = median(num_switches)
+  )
+```
+
+# 4. ANALYSIS 1: ENGLISH PROPORTION ~ SENTIMENT
+
+## 4.1 Simple Linear Model
+
+```{r model1_simple}
+# Model 1: English proportion predicted by sentiment
+model1 <- lm(en_proportion ~ sentiment, data = cs_main)
+summary(model1)
+```
+
+## 4.2 Model Diagnostics
+
+```{r model1_diagnostics, fig.width=10, fig.height=8}
+par(mfrow = c(2, 2))
+plot(model1)
+par(mfrow = c(1, 1))
+```
+
+## 4.3 Check for Heteroscedasticity
+
+```{r model1_heteroscedasticity}
+# Levene's test for homogeneity of variance
+leveneTest(en_proportion ~ sentiment, data = cs_main)
+```
+
+## 4.4 Coefficient Plot with Confidence Intervals
+
+```{r model1_coef_plot, fig.width=8, fig.height=5}
+# Extract coefficients
+model1_coefs <- tidy(model1, conf.int = TRUE) %>%
+  filter(term != "(Intercept)") %>%
+  arrange(estimate) %>%
+  mutate(term = factor(term, levels = term))
+
+# Dot-and-whiskers plot
+ggplot(model1_coefs, aes(x = term, y = estimate)) +
+  geom_point(size = 3) +
+  geom_errorbar(aes(ymin = conf.low, ymax = conf.high), width = 0.2) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "red") +
+  coord_flip() +
+  labs(title = "Effect of Sentiment on English Proportion",
+       subtitle = "Reference: Positive sentiment",
+       x = "Predictor", y = "Coefficient Estimate (95% CI)") +
+  theme_minimal()
+```
+
+## 4.5 Interpretation
+
+```{r model1_interpretation}
+# Model fit
+cat("R-squared:", summary(model1)$r.squared, "\n")
+cat("Adjusted R-squared:", summary(model1)$adj.r.squared, "\n\n")
+
+# Predicted means
+predicted_means <- cs_main %>%
+  group_by(sentiment) %>%
+  summarise(observed_mean = mean(en_proportion)) %>%
+  mutate(predicted_mean = predict(model1, newdata = data.frame(sentiment = sentiment)))
+
+print(predicted_means)
+```
+
+# 5. ANALYSIS 2: SWITCHES ~ SENTIMENT
+
+## 5.1 Simple Linear Model for Count Data
+
+```{r model2_simple}
+# Model 2: Number of switches predicted by sentiment
+model2 <- lm(num_switches ~ sentiment, data = cs_main)
+summary(model2)
+```
+
+## 5.2 Model Diagnostics
+
+```{r model2_diagnostics, fig.width=10, fig.height=8}
+par(mfrow = c(2, 2))
+plot(model2)
+par(mfrow = c(1, 1))
+```
+
+## 5.3 Coefficient Plot
+
+```{r model2_coef_plot, fig.width=8, fig.height=5}
+# Extract coefficients
+model2_coefs <- tidy(model2, conf.int = TRUE) %>%
+  filter(term != "(Intercept)") %>%
+  arrange(estimate) %>%
+  mutate(term = factor(term, levels = term))
+
+# Dot-and-whiskers plot
+ggplot(model2_coefs, aes(x = term, y = estimate)) +
+  geom_point(size = 3) +
+  geom_errorbar(aes(ymin = conf.low, ymax = conf.high), width = 0.2) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "red") +
+  coord_flip() +
+  labs(title = "Effect of Sentiment on Language Switches",
+       subtitle = "Reference: Positive sentiment",
+       x = "Predictor", y = "Coefficient Estimate (95% CI)") +
+  theme_minimal()
+```
+
+# 6. EXTENDED ANALYSIS: INTERACTION WITH SENTENCE LENGTH
+
+## 6.1 Model with Interaction Term
+
+```{r model3_interaction}
+# Model 3: Switches predicted by sentiment and sentence length with interaction
+model3 <- lm(num_switches ~ sentiment * sentence_length, data = cs_main)
+summary(model3)
+```
+
+## 6.2 Model Comparison
+
+```{r model_comparison}
+# Compare models with ANOVA
+anova(model2, model3)
+
+# Compare R-squared values
+cat("Model 2 (no interaction) R-squared:", summary(model2)$r.squared, "\n")
+cat("Model 3 (with interaction) R-squared:", summary(model3)$r.squared, "\n")
+```
+
+## 6.3 Visualization of Interaction
+
+```{r interaction_plot, fig.width=10, fig.height=6}
+# Create predicted values for visualization
+pred_data <- expand.grid(
+  sentiment = levels(cs_main$sentiment),
+  sentence_length = seq(min(cs_main$sentence_length), 
+                        max(cs_main$sentence_length), 
+                        length.out = 50)
+)
+
+pred_data$predicted_switches <- predict(model3, newdata = pred_data)
+
+ggplot(pred_data, aes(x = sentence_length, y = predicted_switches, color = sentiment)) +
+  geom_line(size = 1) +
+  labs(title = "Predicted Language Switches by Sentiment and Sentence Length",
+       x = "Sentence Length (tokens)", y = "Predicted Number of Switches",
+       color = "Sentiment") +
+  theme_minimal()
+```
+
+# 7. RESULTS SUMMARY
+
+```{r results_summary}
+cat("=== MAIN FINDINGS ===\n\n")
+
+cat("Analysis 1: English Proportion ~ Sentiment\n")
+cat("Reference level: Positive sentiment\n")
+cat("Model R-squared:", round(summary(model1)$r.squared, 4), "\n\n")
+
+model1_summary <- tidy(model1) %>% filter(term != "(Intercept)")
+for(i in 1:nrow(model1_summary)) {
+  cat(model1_summary$term[i], ":\n")
+  cat("  Estimate:", round(model1_summary$estimate[i], 4), "\n")
+  cat("  p-value:", format.pval(model1_summary$p.value[i]), "\n\n")
+}
+
+cat("\nAnalysis 2: Language Switches ~ Sentiment\n")
+cat("Reference level: Positive sentiment\n")
+cat("Model R-squared:", round(summary(model2)$r.squared, 4), "\n\n")
+
+model2_summary <- tidy(model2) %>% filter(term != "(Intercept)")
+for(i in 1:nrow(model2_summary)) {
+  cat(model2_summary$term[i], ":\n")
+  cat("  Estimate:", round(model2_summary$estimate[i], 4), "\n")
+  cat("  p-value:", format.pval(model2_summary$p.value[i]), "\n\n")
+}
+```
+
+# 8. DISCUSSION
+
+[TO BE COMPLETED AFTER RUNNING ANALYSIS]
+
+**Key findings:**
+- [Describe whether Mixed_feelings has lower English proportion than Positive]
+- [Describe relationship between sentiment and language switches]
+- [Interpret interaction effects if significant]
+
+**Limitations:**
+- [List any limitations discovered during analysis]
+
+**Future directions:**
+- [Suggest refinements or extensions]

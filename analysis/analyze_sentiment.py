@@ -92,7 +92,28 @@ def statistical_comparison(sentiment_stats):
         print("Need at least 2 sentiment categories for comparison")
         return
     
-    from scipy import stats
+    try:
+        from scipy import stats
+    except (ImportError, ValueError) as e:
+        print(f"\nNote: scipy not available or incompatible - skipping statistical tests")
+        print("Install compatible scipy with: pip install scipy")
+        print("\nShowing basic comparisons instead:")
+        
+        import numpy as np
+        for i in range(len(sentiments)):
+            for j in range(i+1, len(sentiments)):
+                sent1, sent2 = sentiments[i], sentiments[j]
+                
+                en1 = sentiment_stats[sent1]['en_proportions']
+                en2 = sentiment_stats[sent2]['en_proportions']
+                
+                mean_diff = np.mean(en1) - np.mean(en2)
+                
+                print(f"\n{sent1.upper()} vs {sent2.upper()}:")
+                print(f"  Mean English difference: {mean_diff:+.2%}")
+        return
+    
+    import numpy as np
     
     for i in range(len(sentiments)):
         for j in range(i+1, len(sentiments)):
@@ -185,11 +206,7 @@ def main():
     find_extreme_examples(data, n=5)
     
     # Statistical comparison
-    try:
-        statistical_comparison(sentiment_stats)
-    except ImportError:
-        print("\nNote: scipy not installed - skipping statistical tests")
-        print("Install with: pip install scipy")
+    statistical_comparison(sentiment_stats)
     
     # Create visualizations
     try:
