@@ -1,19 +1,40 @@
 # en-ta-cs
-Project investigating the relationship between the proportion of two languages in an utterance and the sentiment of that utterance. Explores this question through a dataset of English and Tamil bilingual codeswitching, scraped from YouTube comments left primarily by native Tamil speakers who are also bilingual or L2 users of English. 
+## Abstract
+This project investigates the relationship between a speaker's sentiment and their language of expression in a code-switching context. Specifically, we create and examine a dataset of mixed English-Tamil text to explore the effect of utterance sentiment on (1) proportion of embedded language to matrix language and (2) frequency of language switches. We perform statistical analysis on this dataset and find that positive utterances show a greater ratio of English to Tamil than negative utterances, and mixed-sentiment utterances show the greatest frequency of language switches when controlling for utterance length. We prove that the emotional content of the message demonstrably influences the language of expression in multilingual settings.
 
-Code-switching is the phenomenon of a bilingual speaker changing their language, dialect, or register of expression. It can occur both interdiscursively and intradiscursively; in the former case, a speaker may switch to signal identity and to match their interlocutor's identity or language competency, while in the latter case, a speaker assumes that their interlocutor shares competency in both languages, and thus switches to affirm identity and to signal attitudes towards the content of their speech. Within the category of intradiscursive code-switching (also called code-mixing), speakers may switch at utterance boundaries, word boundaries, or morpheme boundaries. 
+## Intro
+Code-switching is the phenomenon of a bilingual speaker changing their language, dialect, or register of expression (Sankoff & Poplack 1981). The normative, unmarked, or privileged language is the matrix language, while the marked or marginalized language is the embedded language. Code-switching can be subcategorized into two types as follows, with the majority of our data comprising the latter.
+Inter-discursive code-switching involves less frequent alternation and typically occurs as a response to external pressure or contextual changes, such as the transition from home to work or from one interlocutor to another. 
+Switches occur only at discourse or utterance boundaries 
+Switches signal speaker identity or match an interlocutor's identity/language competency
+Code-mixing (intra-discursive code-switching) is often an unconscious process related to a speaker’s internal attitudes and typically occurs in conversation with other bilingual interlocutors (Muysken 2003). 
+Switches can occur at sentence, word, morpheme, or character boundaries
+Switches affirm speaker identity or signal speaker attitude towards utterance content
+Language status and bilingualism in Southern India
+Bilingualism is common in India, with about 12% of the population claiming L2 proficiency in English alongside a native Indian language (Sarma 2025).
+In Southern states like Tamil Nadu, English often takes the role of lingua franca (as opposed to Hindi in the North), resulting in academic/professional associations of prestige with English, alongside emotional associations with native languages like Tamil (Eldho & Kumar 2023).
+Understanding the motivating factors behind code-switching can help reduce stigma against marginalized languages and improve communication in multilingual settings.
 
-This project investigates the relationship between a speaker's sentiment and their language of expression within a code-switching context. Specifically, we examine a dataset of English-Tamil code-switching scraped from YouTube comments on Indian movie trailers. We propose the alternative hypothesis that positive sentiment utterances are more likely to contain a lower proportion of English words than mixed-sentiment utterances, because in the sociolinguistic context of Southern India, English is commonly a prestige language associated with academic and professional contexts, while Tamil is more often associated with personal and emotional expression. Additionally, we investigate the relationship between an utterance's sentiment and its frequency of switches, with the alternative hypothesis that negative sentiment predicts more frequent changes to language of expression in longer utterances, while shorter utterances are unlikely to show a significant relationship between sentiment and switch frequency. 
+## Hypotheses
+**Embedded language proportion hypotheses:**
+- H0: Utterance sentiment has no effect on proportion of embedded language to matrix language
+- H1: Utterance sentiment predicts the proportion of embedded language to matrix language
 
-Data pipeline (steps 1-4 in Python, steps 5-9 in R): 
+**Switch frequency hypotheses:**
+- H0: Utterance sentiment has no effect on the language switch frequency
+- H1: Utterance sentiment predicts language switch frequency
+
+
+## Data pipeline (steps 1-4 in Python, steps 5-9 in R): 
 1. Preprocess initial data (~44,000 utterances) with sentiment tags from DravidianCodeMix via Chakravarthi et al (2022)
 2. Filter any examples in Tamil script to avoid prediction errors on unicode vs latin chars
 2. Manual annotation of ~3500 tokens (~500 utterances) with language identification tags
-3. Finetune XLM-roberta-base (0.3B params) from Conneau et al (2019) on multiclass prediction task
-4. Run inference with fine-tuned model on remaining utterances in dataset
+3. Finetune XLM-roberta-base (0.3B params) from Conneau et al (2020) on multiclass prediction task
+4. Run inference with fine-tuned model on remaining examples in dataset
 5. Generate linear models to determine variable relationships
 6. Test for significance
-7. Model optimization comparison
+7. Generate complex models with interaction terms with length
+7. Model optimization comparison (AnOVa)
 8. Test for assumptions (heteroscedasticity, multicollinearity, normal distribution)
 9. Plot results
 
