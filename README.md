@@ -2,6 +2,9 @@
 ## Abstract
 This project investigates the relationship between a speaker's sentiment and their language of expression in a code-switching context. Specifically, we create and examine a dataset of mixed English-Tamil text to explore the effect of utterance sentiment on (1) proportion of embedded language to matrix language and (2) frequency of language switches. We perform statistical analysis on this dataset and find that positive utterances show a greater ratio of English to Tamil than negative utterances, and mixed-sentiment utterances show the greatest frequency of language switches when controlling for utterance length. We prove that the emotional content of the message demonstrably influences the language of expression in multilingual settings.
 
+## Poster
+![Stats Final Project Poster](https://github.com/user-attachments/assets/8e596bfc-c135-43f9-88ce-daadb6516f0a)
+
 ## Intro
 Code-switching is the phenomenon of a bilingual speaker changing their language, dialect, or register of expression (Sankoff & Poplack 1981). The normative, unmarked, or privileged language is the matrix language, while the marked or marginalized language is the embedded language. Code-switching can be subcategorized into two types as follows, with the majority of our data comprising the latter.
 Inter-discursive code-switching involves less frequent alternation and typically occurs as a response to external pressure or contextual changes, such as the transition from home to work or from one interlocutor to another. 
