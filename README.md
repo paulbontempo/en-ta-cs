@@ -1,4 +1,4 @@
-# en-ta-cs
+# EnTaCs: Analyzing the Relationship Between Sentiment and Language in English-Tamil Code-switching Using Deep Learning and Statistics
 ## Abstract
 This project investigates the relationship between a speaker's sentiment and their language of expression in a code-switching context. Specifically, we create and examine a dataset of mixed English-Tamil text to explore the effect of utterance sentiment on (1) proportion of embedded language to matrix language and (2) frequency of language switches. We perform statistical analysis on this dataset and find that positive utterances show a greater ratio of English to Tamil than negative utterances, and mixed-sentiment utterances show the greatest frequency of language switches when controlling for utterance length. We prove that the emotional content of the message demonstrably influences the language of expression in multilingual settings.
 
